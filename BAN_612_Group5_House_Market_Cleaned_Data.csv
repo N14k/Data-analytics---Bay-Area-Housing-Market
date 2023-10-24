@@ -1,0 +1,820 @@
+AddressLine,StateCode,City,Zipcode,PropertyPrice,BedRooms,BathRooms,Property_Sqft,School_rating,Garage,YearBuilt,TimeOnRedfin,PropertyType,PropertyStyle,PropertyCommunity,TimeOnRedfin_Days
+3950 Vineyard Ave,CA,Pleasanton,94566,1725000.0,3.0,2.0,1700.0,8,Yes,1921,31 days,Single Family Residential,Craftsman,DOWN TOWN,31.0
+673 Palomino Dr Unit C,CA,Pleasanton,94566,774000.0,2.0,2.0,1198.0,7,Yes,1985,32 days,Townhouse,Contemporary,OAK TREE VILLAS,32.0
+219 Rachael Pl,CA,Pleasanton,94566,990000.0,3.0,2.5,1446.0,7,Yes,1989,34 days,Condo,Contemporary,COUNTRY ROADS,34.0
+843 Division St Unit B,CA,Pleasanton,94566,530000.0,2.0,1.5,948.0,8,No,1959,24 days,Condo,Contemporary,DOWNTOWN AREA,24.0
+7835 Canyon Meadow Cir Unit B,CA,Pleasanton,94588,715000.0,3.0,2.0,1257.0,7,Yes,1991,53 days,Condo,Contemporary,CANYON MEADOWS,53.0
+5132 Springdale Ave,CA,Pleasanton,94588,1335000.0,3.0,2.0,1679.0,7,Yes,1969,6 days,Single Family Residential,"Contemporary, Ranch",STONERIDGE AREA,6.0
+3128 Persimmon Cir,CA,Pleasanton,94588,1799888.0,4.0,2.5,2192.0,7,Yes,1999,26 days,Single Family Residential,Contemporary,STONERIDGE PLACE,26.0
+265 Kottinger Dr,CA,Pleasanton,94566,2199999.0,4.0,3.0,2284.0,8,Yes,1977,61 days,Single Family Residential,Ranch,DOWNTOWN PLEAS.,61.0
+2163 Shadow Creek Ct,CA,Pleasanton,94566,3863375.0,5.0,5.5,4035.0,7,Yes,2023,54 days,Single Family Residential,Contemporary,Diamond Canyon,54.0
+7859 Medinah Ct,CA,Pleasanton,94588,1825000.0,3.0,2.5,2520.0,7,Yes,1994,23 hours,Single Family Residential,Ranch,GOLDEN EAGLE LUX,0.9583333333333334
+5565 Black Ave,CA,Pleasanton,94566,1598000.0,4.0,2.5,2124.0,7,Yes,1969,4 days,Single Family Residential,Traditional,PLEASANTON VALLY,4.0
+1333 Montrose Pl,CA,Pleasanton,94566,8998000.0,7.0,6.0,6535.0,7,Yes,2006,54 days,Single Family Residential,Craftsman,BORDEAUX ESTATES,54.0
+218 Tomas Way,CA,Pleasanton,94566,1275000.0,3.0,2.0,1588.0,7,Yes,1984,10 days,Single Family Residential,Contemporary,OAK PARK,10.0
+7400 Johnston Rd,CA,Pleasanton,94588,4100000.0,4.0,6.5,7500.0,8,Yes,1996,434 days,Single Family Residential,Mediterranean,DANVILLE,434.0
+645 Oak Cir,CA,Pleasanton,94566,1724000.0,4.0,3.0,2636.0,8,Yes,1962,68 days,Single Family Residential,Contemporary,DOWNTOWN AREA,68.0
+3863 Saratoga Way,CA,Pleasanton,94588,769000.0,3.0,1.5,1242.0,7,No,1977,34 days,Townhouse,Contemporary,FAIRLANDS,34.0
+402 Arlington Ct,CA,Pleasanton,94566,1900000.0,4.0,3.5,2954.0,7,Yes,1969,29 days,Single Family Residential,Contemporary,ROSE POINTE,29.0
+4050 Rennellwood Way,CA,Pleasanton,94566,1249000.0,3.0,2.5,1614.0,7,Yes,1976,4 days,Single Family Home,Contemporary,PLEASANTON,4.0
+4016 Windsor Way,CA,Pleasanton,94568,1180000.0,3.0,3.5,1962.0,9,Yes,2017,172 days,Condo,Contemporary,WALLISRANCH,172.0
+1642 Orvieto Ct,CA,Pleasanton,94566,4500000.0,5.0,5.5,5300.0,8,Yes,1997,6 days,Single Family Home,Contemporary,PLEASANTON,6.0
+3409 Zenith Ave,CA,Pleasanton,94568,1150000.0,3.0,3.5,1766.0,9,Yes,2019,1 hour,Condo,Contemporary,DUBLIN,0.041666666666666664
+7285 Hickorywood Ln,CA,Pleasanton,94566,2295000.0,6.0,5.0,3547.0,7,Yes,2004,19 days,Single Family Residential,Contemporary,CARLTON OAKS,19.0
+4317 Chapman Way,CA,Pleasanton,94588,1390000.0,3.0,2.0,1434.0,7,Yes,1969,12 days,Single Family Residential,"Contemporary, Ranch, Traditional",VALLE VISTA,12.0
+1159 Wenig Ct,CA,Pleasanton,94566,2388000.0,5.0,4.5,3067.0,7,Yes,2006,20 days,Single Family Residential,Traditional,VILLAGES AT IRONWOOD,20.0
+3238 W Las Positas Blvd,CA,Pleasanton,94588,1175000.0,3.0,2.5,1473.0,7,Yes,1993,3 days,Townhouse,Contemporary,ALAMEDA,3.0
+809 Montevino Dr,CA,Pleasanton,94566,2750000.0,5.0,3.0,3292.0,7,Yes,1990,5 days,Single Family Residential,Contemporary,VINTAGE HILLS,5.0
+434 Rose Ave,CA,Pleasanton,94566,2799000.0,6.0,6.5,3648.0,8,Yes,2017,60 days,Single Family Residential,Traditional,DOWNTOWN PLEAS.,60.0
+777 Happy Valley Rd,CA,Pleasanton,94566,5500000.0,4.0,5.0,3455.0,7,Yes,1977,126 days,Single Family Residential,"Custom, Ranch, Traditional",PLEASANTON,126.0
+1655 Orvieto Ct,CA,Pleasanton,94566,3875000.0,4.0,3.5,4500.0,8,Yes,1999,26 days,Single Family Residential,Mediterranean,RUBY HILL,26.0
+4306 1st St,CA,Pleasanton,94566,1000000.0,3.0,2.0,1271.0,8,Yes,1890,12 days,Single Family Residential,Bungalow,DOWNTOWN,12.0
+7686 Maywood Dr,CA,Pleasanton,94588,2168900.0,4.0,3.0,2960.0,7,Yes,1989,5 days,Single Family Residential,Traditional,FOREST HILLS,5.0
+9767 Santos Ranch Rd,CA,Pleasanton,94588,7950000.0,5.0,5.5,6500.0,7,Yes,2010,201 days,Single Family Residential,"Custom, Traditional",SANTOS RANCH,201.0
+2004-2006 W Lagoon Rd,CA,Pleasanton,94566,2650000.0,6.0,5.0,3547.0,7,Yes,2004,126 days,Single Family Home,Contemporary,PLEASANTON,126.0
+25 Colby Ct,CA,Pleasanton,94566,1488888.0,3.0,2.5,1789.0,8,Yes,1999,19 days,Single Family Residential,Contemporary,TOWN SQUARE,19.0
+2398 Bay Meadows Cir,CA,Pleasanton,94566,1249000.0,3.0,2.0,1421.0,7,Yes,1979,8 days,Townhouse,"Brown Shingle, Contemporary",NORTHWAY DOWNS,8.0
+4504 Muirwood Dr,CA,Pleasanton,94588,1550000.0,4.0,2.0,2200.0,7,Yes,1966,10 days,Single Family Residential,Ranch,HIGHLAND OAKS,10.0
+6443 Arlington Dr,CA,Pleasanton,94566,1699000.0,4.0,2.5,2332.0,7,Yes,1975,30 hours,Single Family Home,Ranch,PLEASANTON,1.25
+827 Bonde Ct,CA,Pleasanton,94566,1850000.0,4.0,2.5,2162.0,8,Yes,1964,69 days,Single Family Residential,Custom,PLEASANTON HGTS,69.0
+5693 Ellis Ct,CA,Pleasanton,94566,3750000.0,5.0,5.5,4974.0,7,Yes,2005,3 days,Single Family Residential,Mediterranean,SYCAMORE HEIGHTS,3.0
+4462 Bacon Ct,CA,Pleasanton,94588,1399000.0,4.0,2.0,1822.0,7,Yes,1968,26 hours,Single Family Residential,Ranch,VAL VISTA,1.0833333333333333
+391 Oak Ln,CA,Pleasanton,94566,2500000.0,4.0,3.0,3723.0,7,Yes,1978,88 days,Single Family Residential,"Custom, Mid Century Modern",CASTLEWOOD,88.0
+2732 Maria St,CA,Pleasanton,94588,1700000.0,4.0,2.5,1974.0,7,Yes,2000,27 days,Single Family Residential,Contemporary,STONERIDGE SQUAR,27.0
+5248 Arrezzo St,CA,Pleasanton,94588,1298000.0,3.0,2.5,1482.0,7,Yes,1997,4 days,Single Family Residential,Traditional,AVILA AT HACIEND,4.0
+3237 Northampton Ct,CA,Pleasanton,94588,1748000.0,3.0,2.0,1767.0,7,Yes,1968,6 days,Single Family Home,Contemporary,PLEASANTON,6.0
+2157 Shadow Creek Ct,CA,Pleasanton,94566,3799995.0,5.0,5.5,4340.0,7,Yes,2023,74 days,Single Family Residential,Mediterranean,PLEASANTON,74.0
+4017 Stanley Blvd,CA,Pleasanton,94566,1799995.0,4.0,3.0,2057.0,7,No,1915,5 days,Single Family Residential,Contemporary,PLEASANTON,5.0
+16159 Loretta Ln,CA,San-Jose,95032,928000.0,2.0,2.5,1334.0,9,Yes,1980,5 days,Townhouse,Contemporary,LOS GATOS,5.0
+4189 Kingspark Dr,CA,San-Jose,95136,1338888.0,4.0,3.0,1793.0,4,Yes,1971,11 days,Single Family Home,Contemporary,SAN JOSE,11.0
+17 Deer Run Cir,CA,San-Jose,95136,880888.0,2.0,2.5,1196.0,5,Yes,1988,17 days,Townhouse,Contemporary,SAN JOSE,17.0
+3201 Vineyard Park Way,CA,San-Jose,95135,1288000.0,3.0,2.5,1628.0,9,Yes,2000,7 days,Townhouse,Contemporary,SAN JOSE,7.0
+5079 Ella Ct,CA,San-Jose,95111,987777.0,3.0,2.0,1125.0,6,Yes,1962,22 days,Single Family Home,Contemporary,SAN JOSE,22.0
+2115 Vincenzo Walkway,CA,San-Jose,95133,1289999.0,4.0,4.0,1722.0,7,Yes,2014,11 days,Townhouse,Contemporary,SAN JOSE,11.0
+2151 Oakland Rd #3,CA,San-Jose,95131,349950.0,3.0,2.0,1596.0,7,No,2004,6 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,6.0
+6170 De Palma Ct,CA,San-Jose,95120,2300000.0,5.0,2.5,2703.0,9,Yes,1981,10 days,Single Family Home,Contemporary,SAN JOSE,10.0
+556 King George Ave,CA,San-Jose,95136,1050000.0,3.0,3.5,1690.0,4,Yes,2000,2 days,Townhouse,Contemporary,COMMUNICATIONS HILL,2.0
+1032 Abruzzo Ln #3,CA,San-Jose,95131,998000.0,2.0,2.0,1371.0,7,Yes,2017,4 days,Townhouse,Contemporary,SAN JOSE,4.0
+872 E Saint James St,CA,San-Jose,95112,1249950.0,3.0,2.0,1713.0,5,Yes,1930,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+1384 Keenan Way,CA,San-Jose,95125,925000.0,2.0,2.5,1224.0,6,Yes,1985,7 days,Townhouse,Contemporary,SAN JOSE,7.0
+1425 Saint Francis Dr,CA,San-Jose,95125,1998000.0,4.0,2.5,2234.0,6,Yes,1953,3 days,Single Family Home,Contemporary,SAN JOSE,3.0
+924 Oakdell Pl,CA,San-Jose,95117,1998888.0,3.0,2.0,1712.0,6,Yes,1960,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+8099 Cabernet Ct,CA,San-Jose,95135,938000.0,2.0,2.0,1803.0,9,Yes,1978,6 days,Condo,Contemporary,SAN JOSE,6.0
+2411 Falk Ct,CA,San-Jose,95116,698000.0,2.0,2.0,1091.0,7,Yes,2003,4 days,Townhouse,Contemporary,SAN JOSE,4.0
+1809 LA Porte Ave,CA,San-Jose,95122,1150000.0,3.0,2.0,1292.0,4,Yes,1959,4 days,Single Family Residential,Ranch,HILLVIEW,4.0
+4274 Colombo Dr,CA,San-Jose,95130,1930000.0,3.0,2.0,1505.0,7,Yes,1960,21 days,Single Family Residential,Contemporary,W.SAN JOSE,21.0
+5978 Shawcroft Dr,CA,San-Jose,95123,1299000.0,3.0,2.0,1223.0,8,Yes,1971,12 days,Single Family Home,Ranch,SAN JOSE,12.0
+343 Sunpark Ln,CA,San-Jose,95136,1388000.0,4.0,2.0,1581.0,4,Yes,1971,11 days,Single Family Home,Contemporary,SAN JOSE,11.0
+51 Muirfield Ct,CA,San-Jose,95116,595000.0,3.0,1.5,1198.0,4,Yes,1982,12 days,Townhouse,Contemporary,SAN JOSE,12.0
+825 N 17th St,CA,San-Jose,95112,720000.0,2.0,1.0,780.0,5,Yes,1953,14 days,Single Family Home,Contemporary,SAN JOSE,14.0
+1030 Drexel Way,CA,San-Jose,95121,1095000.0,3.0,2.0,1452.0,6,Yes,1967,20 hours,Single Family Home,Contemporary,SAN JOSE,0.8333333333333334
+818 N 13th St,CA,San-Jose,95112,1118000.0,3.0,1.0,1316.0,5,Yes,1910,15 days,Single Family Home,Contemporary,SAN JOSE,15.0
+8318 Chianti Ct,CA,San-Jose,95135,1598888.0,3.0,2.5,2201.0,9,Yes,1979,5 days,Single Family Home,Mediterranean,SAN JOSE,5.0
+13080 Haga Dr,CA,San-Jose,95111,849000.0,2.0,1.0,1410.0,4,Yes,1951,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+4991 Ponderosa Ter,CA,San-Jose,95008,985000.0,3.0,1.5,1176.0,9,No,1973,6 days,Townhouse,Contemporary,CAMPBELL,6.0
+2100 La Terrace Cir,CA,San-Jose,95123,523000.0,1.0,1.0,543.0,6,No,1985,12 days,Condo,Contemporary,SAN JOSE,12.0
+1555 Mission Springs Cir,CA,San-Jose,95131,1600000.0,4.0,2.5,1768.0,7,Yes,1997,21 days,Single Family Residential,Contemporary,San Jose,21.0
+2774 Stacia Dr,CA,San-Jose,95124,1999000.0,3.0,2.5,2002.0,7,Yes,1960,6 hours,Single Family Home,Traditional,SAN JOSE,0.25
+1251 Malone Rd,CA,San-Jose,95125,1698000.0,3.0,2.0,1408.0,7,Yes,1947,5 days,Single Family Home,"Ranch, Traditional",SAN JOSE,5.0
+6022 Jacques Dr,CA,San-Jose,95123,1598888.0,4.0,2.0,1321.0,8,Yes,1971,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+88 Donna Adelle Ct,CA,San-Jose,95127,1599800.0,4.0,2.5,2234.0,4,Yes,2005,14 days,Single Family Home,"Craftsman, Custom",SAN JOSE,14.0
+8371 Riesling Way,CA,San-Jose,95135,698888.0,2.0,2.0,1370.0,9,Yes,1978,10 days,Condo,Contemporary,SAN JOSE,10.0
+1648 Tierra Buena Dr,CA,San-Jose,95121,950000.0,3.0,2.0,1204.0,6,Yes,1963,14 days,Single Family Home,Contemporary,SAN JOSE,14.0
+1538 Denali Way,CA,San-Jose,95122,999998.0,4.0,2.0,1139.0,5,Yes,1978,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+195 Blossom Hill Rd #161,CA,San-Jose,95123,369500.0,3.0,2.0,1512.0,6,No,2015,18 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,18.0
+1690 Cedarcreek Dr,CA,San-Jose,95121,849900.0,3.0,2.5,1360.0,8,Yes,1979,19 days,Condo,Contemporary,SAN JOSE,19.0
+423 N 2nd St #136,CA,San-Jose,95112,578000.0,1.0,1.0,730.0,5,Yes,1994,14 days,Condo,Contemporary,SAN JOSE,14.0
+529 Columbia Ave,CA,San-Jose,95126,999800.0,4.0,1.0,1716.0,6,Yes,1910,14 days,Single Family Home,Other (See Remarks),SAN JOSE,14.0
+847 Berryessa Rd,CA,San-Jose,95112,890000.0,4.0,4.0,1660.0,5,Yes,2009,13 days,Townhouse,Contemporary,SAN JOSE,13.0
+860 Georgetown Pl,CA,San-Jose,95126,1268888.0,3.0,2.5,1859.0,6,Yes,2003,7 days,Townhouse,Contemporary,SAN JOSE,7.0
+297 Sumba Ct,CA,San-Jose,95123,675000.0,2.0,2.0,1122.0,8,Yes,1985,10 days,Condo,Contemporary,SAN JOSE,10.0
+3479 Nova Scotia Ave,CA,San-Jose,95124,1399000.0,3.0,2.5,1820.0,9,Yes,1979,21 days,Single Family Home,Contemporary,SAN JOSE,21.0
+1673 Whitwood Ln,CA,San-Jose,95008,2795000.0,6.0,6.0,3300.0,7,Yes,1962,3 hours,Fourplex,Contemporary,CAMPBELL,0.125
+2988 Grassina St #219,CA,San-Jose,95136,948888.0,3.0,2.0,1405.0,4,Yes,2006,20 days,Condo,Contemporary,SAN JOSE,20.0
+3593 S Bascom Ave #20,CA,San-Jose,95008,575000.0,1.0,1.0,742.0,9,Yes,1984,19 days,Condo,Contemporary,CAMPBELL,19.0
+547 Richmond Ave,CA,San-Jose,95128,1399000.0,4.0,3.0,1789.0,6,Yes,1949,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+2279 MAXIMILIAN Dr,CA,San-Jose,95008,1749000.0,4.0,2.0,1486.0,8,Yes,1962,10 days,Single Family Home,Contemporary,CAMPBELL,10.0
+2223 Summereve Ct,CA,San-Jose,95122,538888.0,2.0,1.0,953.0,6,Yes,1985,2 days,Condo,Contemporary,SAN JOSE,2.0
+275 Burnett Ave #171,CA,San-Jose,95037,279000.0,2.0,2.0,1680.0,8,No,1977,10 days,Triple-Wide Mobile Home,Contemporary,MORGAN HILL,10.0
+1812 Dry Creek Rd,CA,San-Jose,95124,3100000.0,4.0,2.5,2754.0,9,Yes,1977,16 days,Single Family Home,Contemporary,SAN JOSE,16.0
+915 Coleman Ave,CA,San-Jose,95110,1299000.0,4.0,3.0,1845.0,6,Yes,1935,11 days,Single Family Home,Contemporary,SAN JOSE,11.0
+856 Nevada Ave,CA,San-Jose,95125,1799000.0,3.0,2.0,1584.0,7,Yes,1931,5 days,Single Family Home,Mediterranean,SAN JOSE,5.0
+1145 Miller Ave,CA,San-Jose,95129,2798000.0,5.0,3.5,2261.0,9,Yes,1959,19 days,Single Family Home,Traditional,SAN JOSE,19.0
+3152 Heather Ridge Dr,CA,San-Jose,95136,799900.0,1.0,1.0,1012.0,4,Yes,1989,5 days,Condo,Contemporary,SOUTH SAN JOSE,5.0
+7690 Galloway Dr,CA,San-Jose,95135,879900.0,2.0,2.0,1509.0,9,Yes,1989,3 days,Condo,Contemporary,SAN JOSE,3.0
+447 E Saint John St,CA,San-Jose,95112,1025000.0,5.0,4.0,2003.0,5,No,1900,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+852 Buchser Way,CA,San-Jose,95125,1699950.0,3.0,2.0,1451.0,7,Yes,1971,11 hours,Single Family Home,Contemporary,SAN JOSE,0.4583333333333333
+5941 Moraga Ave,CA,San-Jose,95123,1090000.0,3.0,2.0,1072.0,6,Yes,1971,2 hours,Single Family Home,Contemporary,SAN JOSE,0.08333333333333333
+5645 Rotterdam Ln,CA,San-Jose,95118,1399000.0,3.0,2.0,1189.0,9,Yes,1960,19 hours,Single Family Home,"Craftsman, Modern/High Tech",SAN JOSE,0.7916666666666666
+1734 Braddock Ct,CA,San-Jose,95125,668000.0,2.0,1.0,865.0,6,No,1984,10 days,Condo,Contemporary,SAN JOSE,10.0
+937 Catkin Ct,CA,San-Jose,95128,599999.0,2.0,2.0,922.0,6,Yes,1988,10 days,Condo,Contemporary,SAN JOSE,10.0
+924 Ferngrove Dr,CA,San-Jose,95014,2998000.0,5.0,3.0,2064.0,9,Yes,1960,12 days,Single Family Home,"Contemporary, Eichler, Modern/High Tech",CUPERTINO,12.0
+2451 Cory Ave,CA,San-Jose,95128,899999.0,3.0,1.0,1040.0,6,Yes,1950,17 days,Single Family Home,Contemporary,SAN JOSE,17.0
+677 New Compton Dr,CA,San-Jose,95136,1549000.0,5.0,3.0,2533.0,6,Yes,1976,11 days,Single Family Home,Contemporary,SAN JOSE,11.0
+2859 S Bascom Ave #305,CA,San-Jose,95008,695000.0,2.0,2.0,841.0,9,Yes,1984,19 days,Condo,Contemporary,CAMPBELL,19.0
+3145 Dorcich St,CA,San-Jose,95050,2488000.0,5.0,3.0,2487.0,6,Yes,1955,10 days,Single Family Home,Custom,SANTA CLARA,10.0
+1313 Auzerais Ave,CA,San-Jose,95126,998000.0,3.0,2.5,1512.0,6,Yes,2002,12 days,Townhouse,Contemporary,SAN JOSE,12.0
+46 Raindance Ct,CA,San-Jose,95136,950000.0,3.0,2.5,1452.0,5,Yes,1988,19 days,Townhouse,Contemporary,SAN JOSE,19.0
+2151 Oakland Rd #28,CA,San-Jose,95131,260000.0,3.0,2.0,1440.0,7,No,1972,12 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,12.0
+2929 Kring Dr,CA,San-Jose,95125,1875000.0,3.0,2.0,1824.0,7,Yes,1954,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+4608 Capay Dr #2,CA,San-Jose,95118,655000.0,2.0,1.0,810.0,6,Yes,1970,3 days,Condo,Contemporary,SAN JOSE,3.0
+7175 Glenview Dr,CA,San-Jose,95120,4699000.0,5.0,4.5,5558.0,8,Yes,2003,13 days,Single Family Residential,Contemporary,ALMADEN VALLEY,13.0
+3178 Williamsburg Dr,CA,San-Jose,95117,1650000.0,8.0,4.0,2880.0,8,No,1962,6 days,Fourplex,Contemporary,SAN JOSE,6.0
+2974 Neal Ave,CA,San-Jose,95128,1599000.0,3.0,2.0,1591.0,6,Yes,1956,20 days,Single Family Home,"Cottage, Farm House, Flat",SAN JOSE,20.0
+2254 Richland Ave,CA,San-Jose,95125,1348000.0,2.0,2.0,1437.0,7,Yes,1940,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+6816 Avenida Rotella,CA,San-Jose,95139,1100000.0,3.0,2.0,1184.0,8,Yes,1970,12 days,Single Family Residential,Contemporary,San Jose,12.0
+2116 Cully Pl,CA,San-Jose,95124,3260000.0,4.0,4.5,3400.0,9,Yes,2023,11 days,Single Family Home,Craftsman,SAN JOSE,11.0
+3170 Williamsburg Dr,CA,San-Jose,95117,1650000.0,8.0,4.0,2880.0,8,No,1962,7 days,Fourplex,Contemporary,SAN JOSE,7.0
+2324 Glendenning Ave,CA,San-Jose,95050,1399000.0,3.0,2.0,1080.0,8,Yes,1954,5 days,Single Family Home,Contemporary,SANTA CLARA,5.0
+7225 Sleepy Creek Dr,CA,San-Jose,95120,1250000.0,3.0,2.5,1470.0,7,Yes,1985,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+5010 Narvaez Ave,CA,San-Jose,95136,1895000.0,4.0,3.0,2515.0,6,Yes,2002,21 days,Single Family Home,Mediterranean,SAN JOSE,21.0
+1407 San Tomas Aquino Pkwy,CA,San-Jose,95130,1848000.0,8.0,5.0,2764.0,7,No,1960,10 days,Fourplex,Contemporary,SAN JOSE,10.0
+5718 Pontiac Dr,CA,San-Jose,95123,1229888.0,3.0,1.5,1037.0,8,Yes,1962,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+12155 Mount Hamilton Rd,CA,San-Jose,95140,3899000.0,5.0,3.5,3782.0,5,Yes,1951,5 days,Single Family Home,Mediterranean,SAN JOSE,5.0
+3362 Mount Logan Dr,CA,San-Jose,95127,908888.0,3.0,2.0,1198.0,6,Yes,1960,19 days,Single Family Home,Contemporary,SAN JOSE,19.0
+6754 Gentry Oaks Pl,CA,San-Jose,95138,1699000.0,4.0,2.5,2060.0,6,Yes,1997,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+5527 Sean Cir #69,CA,San-Jose,95123,599000.0,2.0,1.0,997.0,8,No,1979,5 days,Condo,Contemporary,SAN JOSE,5.0
+1425 Taper Ct,CA,San-Jose,95122,988888.0,4.0,2.0,1329.0,6,Yes,1974,15 days,Single Family Home,"Ranch, Other (See Remarks)",SAN JOSE,15.0
+356 santana row Row #315,CA,San-Jose,95128,2450000.0,3.0,2.5,2166.0,6,Yes,2003,8 days,Condo,Contemporary,SAN JOSE,8.0
+1484 Keoncrest Ave,CA,San-Jose,95110,839999.0,3.0,1.5,1148.0,6,Yes,1953,3 days,Single Family Home,Contemporary,SAN JOSE,3.0
+1853 Almaden Rd #414,CA,San-Jose,95125,591800.0,1.0,1.0,646.0,7,Yes,2023,6 days,Condo,Contemporary,SAN JOSE,6.0
+480 S Genevieve Ln,CA,San-Jose,95128,1498000.0,3.0,1.5,1640.0,6,Yes,1951,11 days,Single Family Home,"Ranch, Traditional",SAN JOSE,11.0
+1321 Fruitdale Ave,CA,San-Jose,95126,898000.0,3.0,2.5,1291.0,7,Yes,1980,12 days,Condo,Contemporary,SAN JOSE,12.0
+1445 Fruitdale Ave #215,CA,San-Jose,95128,748800.0,2.0,2.0,1216.0,6,Yes,2009,3 days,Condo,Contemporary,SAN JOSE,3.0
+870 Cinnabar St,CA,San-Jose,95126,749000.0,2.0,1.0,720.0,6,Yes,1900,20 days,Single Family Home,Bungalow,SAN JOSE,20.0
+2233 Montezuma Dr,CA,San-Jose,95130,1968000.0,4.0,3.0,1911.0,8,Yes,1961,8 days,Single Family Home,Contemporary,SAN JOSE,8.0
+5601 Drysdale Dr,CA,San-Jose,95124,1888000.0,4.0,2.0,1410.0,8,Yes,1960,21 days,Single Family Home,Contemporary,SAN JOSE,21.0
+2963 Valley Of Hearts Delight Pl,CA,San-Jose,95136,1488888.0,4.0,4.0,2149.0,4,Yes,2019,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+1448 Branham Ln,CA,San-Jose,95118,1299000.0,3.0,2.0,1232.0,6,Yes,1963,4 days,Single Family Home,Ranch,SAN JOSE,4.0
+3365 Pearltone Dr,CA,San-Jose,95117,2199000.0,4.0,2.5,2317.0,7,Yes,1965,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+5486 Spinnaker Walkway #2,CA,San-Jose,95123,534000.0,2.0,1.0,903.0,6,Yes,1969,18 days,Condo,Contemporary,SAN JOSE,18.0
+88 E San Fernando St #1702,CA,San-Jose,95113,999000.0,2.0,2.0,1224.0,6,Yes,2008,17 days,Condo,Contemporary,SAN JOSE,17.0
+352 Grandpark Cir,CA,San-Jose,95136,1198000.0,3.0,2.0,1303.0,4,Yes,1972,3 days,Single Family Home,Contemporary,SAN JOSE,3.0
+4993 Grimsby Dr,CA,San-Jose,95130,2248000.0,4.0,2.5,1955.0,7,Yes,1965,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+254 Agustin Narvaez St #3,CA,San-Jose,95136,1398000.0,4.0,3.5,2002.0,4,Yes,2020,12 days,Condo,Contemporary,SAN JOSE,12.0
+2586 Cottle Ave,CA,San-Jose,95125,2599000.0,3.0,3.0,2457.0,7,Yes,1951,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+1317 Weaver Dr,CA,San-Jose,95125,2599000.0,4.0,2.0,2884.0,7,Yes,1951,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+3190 Dorcich St,CA,San-Jose,95050,3650000.0,5.0,4.0,2774.0,6,Yes,2023,8 days,Single Family Home,Contemporary,SANTA CLARA,8.0
+10080 Judy Ave,CA,San-Jose,95014,4850000.0,5.0,4.5,3779.0,9,Yes,2023,14 days,Single Family Home,Contemporary,CUPERTINO,14.0
+165 Blossom Hill Rd #22,CA,San-Jose,95123,428888.0,3.0,2.0,1344.0,6,No,1998,13 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,13.0
+1940 Luby Dr,CA,San-Jose,95133,1275000.0,4.0,2.5,1681.0,7,Yes,1979,12 days,Single Family Home,Contemporary,SAN JOSE,12.0
+1055 N Capitol Ave #52,CA,San-Jose,95133,636000.0,2.0,2.0,832.0,7,No,1981,16 days,Condo,Contemporary,SAN JOSE,16.0
+2197 Summerton Dr,CA,San-Jose,95122,599000.0,2.0,2.5,1052.0,6,No,1985,20 days,Condo,Contemporary,SAN JOSE,20.0
+3205 Napa Ct,CA,San-Jose,95148,1350000.0,4.0,2.0,1200.0,9,Yes,1971,18 days,Single Family Home,Contemporary,SAN JOSE,18.0
+5556 Cribari Cir,CA,San-Jose,95135,499000.0,1.0,1.0,947.0,9,No,1968,1 day,Condo,Contemporary,SAN JOSE,1.0
+3338 Kimber Ct #7,CA,San-Jose,95124,639000.0,2.0,1.0,886.0,9,Yes,1977,14 days,Condo,Contemporary,SAN JOSE,14.0
+11428 Garden Terrace Dr,CA,San-Jose,95014,1888000.0,4.0,2.5,1852.0,8,Yes,1981,13 days,Townhouse,Contemporary,CUPERTINO,13.0
+4271 N First St #117,CA,San-Jose,95134,285000.0,2.0,2.0,1245.0,8,No,1980,3 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,3.0
+7244 Wild Creek Dr,CA,San-Jose,95120,1300000.0,3.0,2.5,1470.0,7,Yes,1985,20 days,Single Family Home,Traditional,SAN JOSE,20.0
+541 Yurok Cir,CA,San-Jose,95123,1258000.0,4.0,2.0,1345.0,8,Yes,1966,5 days,Single Family Home,Ranch,SAN JOSE,5.0
+3168 Matzley Ct,CA,San-Jose,95124,1475000.0,3.0,2.0,1248.0,9,Yes,1960,20 days,Single Family Home,Ranch,SAN JOSE,20.0
+330 Crestview Dr,CA,San-Jose,95050,2388800.0,4.0,3.5,2330.0,8,Yes,1956,10 days,Single Family Home,Custom,SANTA CLARA,10.0
+25 S 3rd St #411,CA,San-Jose,95113,585000.0,1.0,1.0,692.0,6,Yes,2007,17 days,Condo,Contemporary,SAN JOSE,17.0
+4262 Meg Dr,CA,San-Jose,95136,1375000.0,3.0,2.0,1424.0,6,Yes,1969,19 days,Single Family Home,Ranch,SAN JOSE,19.0
+1232 Normandy Way,CA,San-Jose,95050,1498000.0,4.0,2.0,1857.0,8,No,1959,18 days,Duplex,Contemporary,SANTA CLARA,18.0
+21951 Shillingsburg Ave,CA,San-Jose,95120,1850000.0,2.0,1.0,1600.0,7,Yes,1976,15 days,Single Family Home,Contemporary,SAN JOSE,15.0
+3294 Palatino Way,CA,San-Jose,95135,2299000.0,4.0,2.5,2011.0,9,Yes,1996,11 days,Single Family Home,Contemporary,SAN JOSE,11.0
+800 N 8th St #120,CA,San-Jose,95112,829000.0,2.0,2.0,1214.0,5,Yes,2004,19 days,Condo,Modern/High Tech,SAN JOSE,19.0
+1362 Lansing Ave,CA,San-Jose,95118,1050000.0,3.0,2.0,1232.0,6,Yes,1964,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+795 W Taylor St,CA,San-Jose,95126,799000.0,1.0,1.0,540.0,6,No,1910,3 days,Single Family Home,Contemporary,SAN JOSE,3.0
+5337 Cribari Gln,CA,San-Jose,95135,469000.0,1.0,1.0,947.0,9,No,1970,9 days,Condo,Contemporary,SAN JOSE,9.0
+6371 Almaden Rd,CA,San-Jose,95120,2388888.0,5.0,4.0,2009.0,7,Yes,1976,23 hours,Single Family Home,Contemporary,SAN JOSE,0.9583333333333334
+3034 Empoli St #9,CA,San-Jose,95136,1188000.0,3.0,2.0,1200.0,4,Yes,2023,11 days,Condo,Contemporary,SAN JOSE,11.0
+1531 Johnson Ave,CA,San-Jose,95129,2299888.0,3.0,2.0,1666.0,9,Yes,1968,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+2210 Laurelei Ave,CA,San-Jose,95128,1799000.0,4.0,2.5,2105.0,6,Yes,1960,20 days,Single Family Home,Ranch,SAN JOSE,20.0
+5870 Meander Dr,CA,San-Jose,95120,2200000.0,4.0,2.5,2008.0,9,Yes,1975,12 days,Single Family Home,Contemporary,SAN JOSE,12.0
+5450 Monterey Rd #97,CA,San-Jose,95111,318000.0,2.0,2.0,1440.0,6,No,1975,7 hours,Double-Wide Mobile Home,Contemporary,SAN JOSE,0.2916666666666667
+5965 Arabian Ct,CA,San-Jose,95123,1820000.0,5.0,3.0,2509.0,8,Yes,1966,8 days,Single Family Home,Contemporary,SAN JOSE,8.0
+816 Opal Dr,CA,San-Jose,95117,1780000.0,7.0,4.0,2686.0,6,Yes,1960,17 days,Fourplex,Contemporary,SAN JOSE,17.0
+706 Avenue One,CA,San-Jose,95123,1138000.0,3.0,3.5,1712.0,6,Yes,2016,39 minutes,Condo,Contemporary,SAN JOSE,23.38555787278415
+373 Avenida Arboles,CA,San-Jose,95123,1488000.0,4.0,2.5,1908.0,8,Yes,1968,6 days,Single Family Residential,Traditional,San Jose,6.0
+2184 Nola Dr,CA,San-Jose,95125,1699000.0,3.0,2.5,1925.0,7,Yes,1968,5 days,Single Family Home,Ranch,SAN JOSE,5.0
+245 El Bosque,CA,San-Jose,95134,315000.0,4.0,2.0,1344.0,8,No,1993,12 days,Manufactured on Land,Contemporary,SJOS - San Jose,12.0
+1033 White Peach Way,CA,San-Jose,95133,1299888.0,3.0,3.5,1697.0,7,Yes,2013,7 days,Townhouse,Contemporary,SAN JOSE,7.0
+3016 Cyrus Ave,CA,San-Jose,95124,1449000.0,3.0,2.0,1270.0,9,Yes,1956,10 days,Single Family Home,Ranch,SAN JOSE,10.0
+3193 Finch Dr,CA,San-Jose,95117,1698000.0,2.0,1.0,1100.0,7,No,1948,7 days,Single Family Home,Contemporary,SAN JOSE,7.0
+413 Curie Dr,CA,San-Jose,95123,1400000.0,3.0,2.0,1617.0,8,Yes,1969,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+555 Umbarger Rd #54,CA,San-Jose,95111,289900.0,3.0,2.0,1230.0,6,No,1999,3 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,3.0
+6613 Folklore Ct,CA,San-Jose,95120,1199000.0,3.0,2.5,1354.0,8,Yes,1977,5 days,Townhouse,Contemporary,SAN JOSE,5.0
+10460 McVay Ave,CA,San-Jose,95127,1275000.0,4.0,2.0,1342.0,4,Yes,1960,5 days,Single Family Home,Ranch,SAN JOSE,5.0
+105 S 15th St,CA,San-Jose,95112,1599000.0,3.0,2.0,2005.0,5,Yes,1922,18 days,Single Family Home,Craftsman,SAN JOSE,18.0
+906 La Barbera Dr,CA,San-Jose,95126,660000.0,1.0,1.0,808.0,6,Yes,1985,30 hours,Condo,Contemporary,SAN JOSE,1.25
+1743 Aprilsong Ct,CA,San-Jose,95131,1428880.0,4.0,2.0,1843.0,7,Yes,1974,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+1313 Michigan Ave,CA,San-Jose,95002,1250000.0,5.0,3.0,1630.0,8,No,1940,17 days,Single Family Residential,Contemporary,Alviso,17.0
+2391 Niemeyer Ct,CA,San-Jose,95132,799000.0,3.0,1.5,1180.0,7,No,1977,21 hours,Townhouse,Contemporary,SAN JOSE,0.875
+4269 Sayoko Cir,CA,San-Jose,95136,1549000.0,5.0,3.0,2236.0,4,Yes,1971,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+195 Blossom Hill Rd #210,CA,San-Jose,95123,359950.0,3.0,2.0,1567.0,6,No,2015,13 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,13.0
+588 Hyde Park Dr,CA,San-Jose,95136,1599000.0,4.0,2.5,2124.0,6,Yes,1973,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+1032 Sinbad Ave,CA,San-Jose,95116,839900.0,2.0,1.0,776.0,7,Yes,1959,20 days,Single Family Home,Contemporary,SAN JOSE,20.0
+3041 Harvestwood Ct,CA,San-Jose,95148,1750000.0,5.0,3.0,2253.0,9,Yes,1976,15 days,Single Family Home,Contemporary,SAN JOSE,15.0
+88 Bush St #2200,CA,San-Jose,95126,724000.0,1.0,1.5,841.0,6,Yes,2008,8 days,Condo,Modern/High Tech,SAN JOSE,8.0
+1799 Foxworthy Ave,CA,San-Jose,95124,1395000.0,3.0,2.0,1176.0,9,Yes,1956,12 days,Single Family Home,Contemporary,SAN JOSE,12.0
+563 Shadow Dance Dr,CA,San-Jose,95110,599000.0,2.0,2.0,871.0,7,No,1987,22 days,Condo,Contemporary,SAN JOSE,22.0
+282 Tradewinds Dr #2,CA,San-Jose,95123,525888.0,2.0,1.0,959.0,8,No,1970,3 days,Condo,Contemporary,SAN JOSE,3.0
+766 Warring Dr #4,CA,San-Jose,95123,520000.0,2.0,1.0,798.0,6,Yes,1970,18 days,Condo,Contemporary,SAN JOSE,18.0
+144 F QUAIL HOLLOW Dr #144,CA,San-Jose,95128,315800.0,2.0,2.0,1440.0,6,No,1974,2 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,2.0
+634 Mohican Dr,CA,San-Jose,95123,1650000.0,5.0,4.0,2427.0,8,Yes,1963,2 days,Single Family Home,Contemporary,SAN JOSE,2.0
+7242 Gold Creek Way,CA,San-Jose,95120,2950000.0,4.0,2.5,3140.0,7,Yes,1983,11 days,Single Family Home,Contemporary,SAN JOSE,11.0
+3212 Kimber Ct #79,CA,San-Jose,95124,639000.0,1.0,1.0,815.0,9,Yes,1977,7 days,Condo,Contemporary,SAN JOSE,7.0
+182 S Morrison Ave,CA,San-Jose,95126,1649999.0,4.0,2.5,2085.0,6,Yes,1942,17 days,Single Family Home,Ranch,SAN JOSE,17.0
+2906 Mitton Dr,CA,San-Jose,95148,1698000.0,3.0,2.5,1798.0,9,Yes,1985,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+1188 Malone Rd,CA,San-Jose,95125,2398000.0,3.0,2.5,1929.0,7,Yes,1941,7 days,Single Family Home,Craftsman,SAN JOSE,7.0
+809 Auzerais Ave #149,CA,San-Jose,95126,849000.0,2.0,2.0,1229.0,6,Yes,2008,20 days,Condo,Contemporary,SAN JOSE,20.0
+922 Gaspar Vis,CA,San-Jose,95126,1200000.0,4.0,4.0,1930.0,6,Yes,2009,13 days,Townhouse,Modern/High Tech,SAN JOSE,13.0
+6088 Cahalan Ave,CA,San-Jose,95123,1299000.0,3.0,2.0,1576.0,6,Yes,1967,4 days,Single Family Residential,Traditional,Not Listed,4.0
+836 Las Palmas Way,CA,San-Jose,95133,1198000.0,3.0,2.5,1566.0,7,Yes,1997,18 days,Single Family Home,Contemporary,SAN JOSE,18.0
+38 N Almaden Blvd #1916,CA,San-Jose,95110,758888.0,1.0,1.0,953.0,6,Yes,2008,1 day,Condo,Contemporary,SAN JOSE,1.0
+3071 Wall St,CA,San-Jose,95111,900000.0,3.0,2.0,1296.0,4,No,1940,14 days,Single Family Residential,Contemporary,San Jose,14.0
+692 Jennings Dr,CA,San-Jose,95111,1099000.0,5.0,4.0,1992.0,5,Yes,1976,2 days,Single Family Home,Contemporary,SAN JOSE,2.0
+5561 Southcrest Way,CA,San-Jose,95123,1399000.0,3.0,2.5,1682.0,8,Yes,2012,20 days,Single Family Residential,Contemporary,San Jose,20.0
+3288 MOUNT RAINIER Dr,CA,San-Jose,95127,1028000.0,3.0,2.0,1133.0,6,Yes,1968,12 days,Single Family Home,Ranch,SAN JOSE,12.0
+1719 Harmil Way,CA,San-Jose,95125,1849000.0,4.0,2.5,2266.0,7,Yes,1938,18 days,Single Family Home,Contemporary,SAN JOSE,18.0
+2464 Cory Ave,CA,San-Jose,95128,2300000.0,3.0,3.5,1858.0,6,Yes,2023,3 days,Single Family Home,Contemporary,SAN JOSE,3.0
+6268 Hokett Way,CA,San-Jose,95123,1395000.0,3.0,2.0,1625.0,8,Yes,1968,5 days,Single Family Home,Tract,SAN JOSE,5.0
+490 N 5th St,CA,San-Jose,95112,1325000.0,3.0,2.0,1278.0,5,Yes,1901,6 days,Single Family Home,"Victorian, Vintage",SAN JOSE,6.0
+1706 Bevin Brook Dr,CA,San-Jose,95112,740000.0,3.0,3.0,1201.0,6,Yes,1993,6 days,Condo,Contemporary,SAN JOSE,6.0
+3175 Locke Dr,CA,San-Jose,95111,1628888.0,8.0,4.0,3369.0,5,Yes,1971,10 days,Triplex,Contemporary,SAN JOSE,10.0
+1476 Curtner Ave,CA,San-Jose,95125,1690000.0,4.0,4.0,2475.0,7,Yes,1972,22 days,Duplex,Contemporary,SAN JOSE,22.0
+1275 Magnolia Ave,CA,San-Jose,95126,1399000.0,2.0,2.0,1194.0,6,Yes,1915,1 day,Single Family Home,Cottage,SAN JOSE,1.0
+5967 Flash Ct,CA,San-Jose,95119,964900.0,2.0,2.5,1355.0,6,Yes,2023,20 days,Condo,Contemporary,SAN JOSE,20.0
+88 E San Fernando St #2002,CA,San-Jose,95113,1029000.0,2.0,2.0,1224.0,6,Yes,2008,18 days,Condo,Contemporary,SAN JOSE,18.0
+2240 Ruby Ave,CA,San-Jose,95148,1688888.0,5.0,2.5,2697.0,6,Yes,1968,4 days,Single Family Home,Other (See Remarks),SAN JOSE,4.0
+328 Heritage View Ter,CA,San-Jose,95125,1249000.0,3.0,2.5,1776.0,6,Yes,2004,11 days,Single Family Home,Traditional,SAN JOSE,11.0
+1433 Glacier Dr,CA,San-Jose,95118,1425000.0,3.0,2.0,1359.0,6,Yes,1965,18 hours,Single Family Home,Contemporary,SAN JOSE,0.75
+1034 Glithero Ct,CA,San-Jose,95112,1399000.0,4.0,2.0,1405.0,5,Yes,1977,11 days,Single Family Residential,Contemporary,San Jose,11.0
+2740 Gilham Way,CA,San-Jose,95148,1459888.0,4.0,2.5,2199.0,7,Yes,2004,1 day,Single Family Home,Contemporary,SAN JOSE,1.0
+2033 Woodglen Dr,CA,San-Jose,95130,2098000.0,4.0,2.5,2256.0,7,Yes,2005,11 days,Single Family Home,Contemporary,SAN JOSE,11.0
+524 Rutland Ave,CA,San-Jose,95128,1098000.0,2.0,1.0,1087.0,6,Yes,1939,5 days,Single Family Home,Bungalow,SAN JOSE,5.0
+2619 Meridian Ave,CA,San-Jose,95124,1599999.0,3.0,2.0,1569.0,7,Yes,1960,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+918 Foothill Dr,CA,San-Jose,95123,1895000.0,4.0,2.5,2124.0,6,Yes,1968,14 days,Single Family Home,Contemporary,SAN JOSE,14.0
+2450 New Jersey,CA,San-Jose,95124,1799000.0,4.0,2.5,2048.0,9,Yes,1965,5 days,Single Family Residential,Contemporary,San Jose,5.0
+1437 Gerhardt Ave,CA,San-Jose,95125,3390000.0,5.0,4.5,3487.0,7,Yes,2023,21 days,Single Family Home,"Farm House, Modern/High Tech",SAN JOSE,21.0
+1660 Hollowcreek Pl,CA,San-Jose,95121,865000.0,3.0,2.5,1508.0,8,Yes,1979,5 days,Townhouse,Contemporary,SAN JOSE,5.0
+328 El Portal Way,CA,San-Jose,95119,1550000.0,4.0,2.0,2212.0,8,Yes,1968,16 days,Single Family Residential,Contemporary,ALMADEN,16.0
+3181 Heather Ridge Dr,CA,San-Jose,95136,775000.0,2.0,2.0,1067.0,4,Yes,1989,3 days,Condo,Contemporary,SAN JOSE,3.0
+10080 Bret Ave,CA,San-Jose,95014,5180000.0,5.0,5.5,3780.0,9,Yes,2023,6 days,Single Family Home,Contemporary,CUPERTINO,6.0
+2102 Lynnhaven Dr,CA,San-Jose,95128,1225000.0,4.0,2.0,1500.0,6,Yes,1954,12 days,Duplex,Traditional,SAN JOSE,12.0
+493 Curie Dr,CA,San-Jose,95123,1249000.0,3.0,2.0,1412.0,8,Yes,1969,20 days,Single Family Home,Contemporary,SAN JOSE,20.0
+110 Graham Ave,CA,San-Jose,95110,4600000.0,22.0,16.0,10300.0,7,No,1950,18 days,5+ Units,Contemporary,SAN JOSE,18.0
+81 Muller Pl,CA,San-Jose,95126,1249000.0,3.0,3.5,1588.0,6,Yes,2008,13 days,Condo,Contemporary,SAN JOSE,13.0
+801 S Winchester Blvd #4204,CA,San-Jose,95128,859000.0,2.0,2.0,1022.0,6,Yes,2005,4 days,Condo,Mediterranean,SAN JOSE,4.0
+4585 Vanderbilt Dr,CA,San-Jose,95130,3498888.0,4.0,3.5,2853.0,7,Yes,2023,24 days,Single Family Home,Contemporary,SAN JOSE,24.0
+5711 Makati Cir Unit G,CA,San-Jose,95123,470000.0,1.0,1.0,543.0,6,No,1982,14 days,Condo,Contemporary,SAN JOSE,14.0
+5152 Felter Rd,CA,San-Jose,95132,2090000.0,5.0,3.0,3000.0,9,Yes,1960,20 days,Single Family Home,"Ranch, Traditional",SAN JOSE,20.0
+3762 Jasmine Cir,CA,San-Jose,95135,1250000.0,3.0,2.5,1346.0,9,Yes,1999,22 days,Townhouse,Contemporary,SAN JOSE,22.0
+8138 Cinnabar Hills Rd,CA,San-Jose,95120,4999000.0,5.0,5.0,4752.0,7,Yes,2023,11 hours,Single Family Home,Contemporary,SAN JOSE,0.4583333333333333
+5866 Smoky Quartz Loop,CA,San-Jose,95123,1149000.0,3.0,3.5,1712.0,6,Yes,2015,12 days,Townhouse,Contemporary,SAN JOSE,12.0
+3283 Lindenoaks Dr,CA,San-Jose,95117,1598000.0,4.0,2.0,1400.0,6,Yes,1956,14 days,Single Family Home,Contemporary,SAN JOSE,14.0
+2984 Jayhawkers Pl #4,CA,San-Jose,95136,1099950.0,3.0,2.0,1256.0,4,Yes,2020,19 days,Condo,Contemporary,SAN JOSE,19.0
+2795 Garden Ave,CA,San-Jose,95111,2188888.0,8.0,4.0,3680.0,4,No,1986,13 days,Fourplex,Contemporary,SAN JOSE,13.0
+917 Apricot Ave Unit B,CA,San-Jose,95008,625000.0,1.0,1.0,895.0,9,Yes,1980,3 days,Condo,Contemporary,CAMPBELL,3.0
+1572 Willowbrook Dr,CA,San-Jose,95118,1475000.0,3.0,2.0,1260.0,6,Yes,1959,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+629 Villa Centre Way,CA,San-Jose,95128,2199000.0,4.0,3.0,2223.0,6,Yes,1996,6 days,Single Family Home,Mediterranean,SAN JOSE,6.0
+611 Balfour Dr,CA,San-Jose,95111,585000.0,2.0,1.5,867.0,4,Yes,1983,11 days,Condo,Traditional,SAN JOSE,11.0
+6104 Maree Ct,CA,San-Jose,95123,1255000.0,4.0,2.0,1400.0,8,Yes,1970,20 days,Single Family Home,Contemporary,SAN JOSE,20.0
+207 Coy Dr #4,CA,San-Jose,95123,530000.0,2.0,1.0,798.0,6,Yes,1970,7 days,Condo,Contemporary,SAN JOSE,7.0
+444 Josefa St,CA,San-Jose,95126,600000.0,2.0,2.0,722.0,6,Yes,1900,21 days,Single Family Home,Contemporary,SAN JOSE,21.0
+3137 Jenkins Ave,CA,San-Jose,95118,1745000.0,5.0,2.0,1787.0,7,Yes,1971,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+5419 Silver Vista Way,CA,San-Jose,95138,1249900.0,2.0,2.0,1590.0,8,Yes,1995,3 days,Condo,Mediterranean,SAN JOSE,3.0
+1792 Wilcox Way,CA,San-Jose,95125,2795000.0,4.0,2.5,2416.0,7,Yes,1962,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+1355 Mcquesten Dr Unit C,CA,San-Jose,95122,598000.0,3.0,1.5,1150.0,6,Yes,1980,5 days,Townhouse,Contemporary,SAN JOSE,5.0
+1471 Mardan Dr,CA,San-Jose,95132,1499950.0,4.0,2.5,1836.0,8,Yes,1969,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+2135 Little Orchard St #78,CA,San-Jose,95125,415000.0,3.0,2.0,960.0,6,No,2015,21 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,21.0
+4393 Laird Cir,CA,San-Jose,95054,1679000.0,3.0,3.0,1590.0,8,Yes,2005,6 days,Single Family Home,Contemporary,SANTA CLARA,6.0
+144 S 3rd St #531,CA,San-Jose,95112,798000.0,2.0,2.0,1421.0,6,Yes,1997,12 days,Condo,Modern/High Tech,SAN JOSE,12.0
+101 Escobar Ct,CA,San-Jose,95032,1428000.0,3.0,2.0,1494.0,8,Yes,1972,12 days,Townhouse,Contemporary,LOS GATOS,12.0
+1146 Minnesota Ave,CA,San-Jose,95125,2300000.0,3.0,2.5,3288.0,7,Yes,1951,4 days,Single Family Home,Victorian,SAN JOSE,4.0
+1037 Keltner Ave,CA,San-Jose,95117,1498000.0,4.0,2.0,1236.0,7,Yes,1958,19 days,Single Family Home,Contemporary,SAN JOSE,19.0
+6544 Little Falls Dr,CA,San-Jose,95120,2378999.0,4.0,2.5,2364.0,7,Yes,1965,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+1847 Bristol Bay Cmn,CA,San-Jose,95131,944888.0,2.0,2.5,1181.0,7,Yes,1994,7 days,Townhouse,Contemporary,SAN JOSE,7.0
+1726 Papyrus Ln,CA,San-Jose,95126,1999999.0,4.0,2.5,1926.0,6,Yes,2004,3 days,Single Family Home,Contemporary,SAN JOSE,3.0
+2867 S Bascom Ave #603,CA,San-Jose,95008,579900.0,1.0,1.0,668.0,9,No,1984,11 days,Condo,Contemporary,CAMPBELL,11.0
+1816 La Porte Ave,CA,San-Jose,95122,950000.0,3.0,2.0,1040.0,4,Yes,1959,11 days,Single Family Residential,Bungalow,San Jose,11.0
+2443 Raleigh Dr,CA,San-Jose,95124,2399000.0,4.0,2.5,2449.0,7,Yes,1964,24 days,Single Family Residential,Craftsman,WILLOW GLEN,24.0
+1882 Winding Creek Ct,CA,San-Jose,95148,839000.0,2.0,2.5,1473.0,6,Yes,1984,21 days,Townhouse,Contemporary,SAN JOSE,21.0
+15390 Charmeran Ave,CA,San-Jose,95124,3195000.0,4.0,3.5,2616.0,9,Yes,2023,20 days,Single Family Home,Cape Cod,SAN JOSE,20.0
+382 N 7th St,CA,San-Jose,95112,899000.0,2.0,1.0,918.0,5,Yes,1935,7 days,Single Family Home,Cottage,SAN JOSE,7.0
+5258 Cribari Hts,CA,San-Jose,95135,499000.0,2.0,1.0,947.0,9,No,1969,15 days,Condo,Contemporary,SAN JOSE,15.0
+491 Lily Ann #491,CA,San-Jose,95123,275000.0,2.0,2.0,1440.0,6,No,1977,5 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,5.0
+1731 Mossbrook Ave,CA,San-Jose,95130,1948000.0,4.0,2.0,1671.0,7,Yes,1963,13 days,Single Family Home,Eichler,SAN JOSE,13.0
+6314 Camino Verde Dr,CA,San-Jose,95119,1699888.0,4.0,2.5,2124.0,8,Yes,1972,13 hours,Single Family Home,"Contemporary, Other (See Remarks)",SAN JOSE,0.5416666666666666
+543 Wagman Dr,CA,San-Jose,95129,2388000.0,4.0,2.0,1655.0,9,Yes,1965,19 days,Single Family Home,Ranch,SAN JOSE,19.0
+3505 La Terrace Cir,CA,San-Jose,95123,535000.0,1.0,1.0,650.0,6,No,1985,19 days,Condo,Contemporary,SAN JOSE,19.0
+1261 Kaylene Ct,CA,San-Jose,95127,1698800.0,4.0,2.5,2585.0,6,Yes,1987,14 days,Single Family Home,Contemporary,SAN JOSE,14.0
+700 Adeline Ave,CA,San-Jose,95136,1388000.0,4.0,3.5,2209.0,4,Yes,2005,17 days,Townhouse,Contemporary,SAN JOSE,17.0
+5389 Armonk Ct,CA,San-Jose,95123,1199000.0,3.0,2.5,1546.0,6,Yes,1986,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+1389 Cherrywood Sq,CA,San-Jose,95117,998800.0,2.0,2.5,1292.0,7,Yes,1972,6 days,Townhouse,Contemporary,SAN JOSE,6.0
+3015 Senter Rd,CA,San-Jose,95111,1067888.0,3.0,2.0,1593.0,4,Yes,1960,2 days,Single Family Home,Contemporary,SAN JOSE,2.0
+3173 Payne Ave #4,CA,San-Jose,95117,715000.0,1.0,1.5,1070.0,7,Yes,1976,2 hours,Townhouse,Contemporary,SAN JOSE,0.08333333333333333
+4010 Timberline Dr,CA,San-Jose,95121,1690000.0,4.0,3.0,1870.0,8,Yes,1964,10 days,Single Family Home,Contemporary,SAN JOSE,10.0
+1075 Fleetwood Dr,CA,San-Jose,95120,1699500.0,4.0,2.5,2191.0,7,Yes,1966,7 days,Single Family Home,Contemporary,SAN JOSE,7.0
+165 Blossom Hill Rd #97,CA,San-Jose,95123,389000.0,3.0,2.0,1100.0,6,No,2014,10 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,10.0
+3153 Payne Ave #11,CA,San-Jose,95117,999000.0,3.0,2.5,1360.0,7,Yes,1976,4 days,Townhouse,Contemporary,SAN JOSE,4.0
+469 Bellezza Pl,CA,San-Jose,95128,1498000.0,4.0,4.0,1784.0,6,Yes,2012,6 days,Condo,Contemporary,SAN JOSE,6.0
+1015 Roy Ave,CA,San-Jose,95125,1175000.0,2.0,2.5,1641.0,7,Yes,1974,5 days,Townhouse,Contemporary,SAN JOSE,5.0
+219 N White Rd,CA,San-Jose,95127,1049000.0,3.0,2.0,1281.0,4,Yes,1959,5 days,Single Family Home,Ranch,SAN JOSE,5.0
+1310 Saddle Rack St #327,CA,San-Jose,95126,860000.0,2.0,2.0,1311.0,6,Yes,2004,4 days,Condo,Contemporary,SAN JOSE,4.0
+1757 Hillsdale Ave,CA,San-Jose,95124,1098000.0,3.0,1.0,1060.0,9,Yes,1954,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+801 Winchester Blvd #1208,CA,San-Jose,95128,825000.0,2.0,2.0,990.0,6,Yes,2005,21 days,Condo,Contemporary,SAN JOSE,21.0
+404 N 6th St,CA,San-Jose,95112,800550.0,2.0,1.0,1248.0,5,Yes,1918,23 days,Single Family Residential,Contemporary,San Jose,23.0
+1008 S Monroe St,CA,San-Jose,95128,1936000.0,4.0,3.0,1884.0,6,Yes,1954,20 hours,Single Family Home,Contemporary,SAN JOSE,0.8333333333333334
+4639 Smoke River Ct,CA,San-Jose,95136,899000.0,3.0,2.5,1441.0,6,Yes,1977,13 days,Townhouse,Contemporary,SAN JOSE,13.0
+5935 Flash Ct,CA,San-Jose,95119,975900.0,2.0,2.0,1404.0,6,Yes,2023,14 days,Condo,Contemporary,SAN JOSE,14.0
+357 Blossom Hill Rd #4,CA,San-Jose,95123,534888.0,2.0,1.0,798.0,6,Yes,1970,14 days,Condo,Contemporary,SAN JOSE,14.0
+4667 Blanco Dr,CA,San-Jose,95129,1998000.0,3.0,2.0,1645.0,8,Yes,1963,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+7720 Kilmarnok Dr,CA,San-Jose,95135,825000.0,2.0,2.0,1490.0,9,Yes,1989,14 days,Condo,Traditional,SAN JOSE,14.0
+7622 Stoneshire Ct,CA,San-Jose,95135,950000.0,2.0,2.0,1509.0,9,Yes,1988,14 days,Condo,Contemporary,SAN JOSE,14.0
+3064 Lantz Ave,CA,San-Jose,95124,1598000.0,3.0,2.0,1303.0,9,Yes,1949,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+2744 Plummer Ave,CA,San-Jose,95125,1699000.0,3.0,2.0,1632.0,7,Yes,1954,4 days,Single Family Home,Contemporary,SAN JOSE,4.0
+821 E Hedding St,CA,San-Jose,95112,849000.0,2.0,1.0,878.0,5,Yes,1928,2 days,Single Family Home,Contemporary,SAN JOSE,2.0
+1666 Christopher St,CA,San-Jose,95122,849888.0,4.0,3.0,1306.0,4,No,1959,8 days,Single Family Home,Contemporary,SAN JOSE,8.0
+5877 Lake Almanor Dr,CA,San-Jose,95123,699000.0,2.0,1.0,852.0,6,Yes,1988,4 days,Condo,Contemporary,SAN JOSE,4.0
+6117 Cahalan Ave,CA,San-Jose,95123,1150000.0,3.0,2.0,1593.0,6,Yes,1968,2 days,Single Family Home,Traditional,SAN JOSE,2.0
+1228 Gainsville Ave,CA,San-Jose,95122,999900.0,4.0,2.0,1283.0,4,Yes,1963,5 days,Single Family Home,Contemporary,SAN JOSE,5.0
+411 Castro Ct,CA,San-Jose,95008,1798000.0,3.0,2.0,1248.0,7,Yes,1959,5 days,Single Family Home,Contemporary,CAMPBELL,5.0
+14846 Acton Dr,CA,San-Jose,95124,2398000.0,4.0,3.0,2130.0,9,Yes,1950,5 days,Single Family Home,Ranch,SAN JOSE,5.0
+295 E Younger Ave,CA,San-Jose,95112,3200000.0,17.0,10.0,6636.0,5,Yes,1957,11 days,5+ Units,Contemporary,SAN JOSE,11.0
+3611 Ethan Ct,CA,San-Jose,95136,1460000.0,4.0,2.5,1954.0,6,Yes,1974,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+3229 Falmouth St,CA,San-Jose,95132,1198000.0,4.0,2.0,1234.0,8,Yes,1979,6 days,Single Family Home,Contemporary,SAN JOSE,6.0
+2226 Alexian Dr,CA,San-Jose,95116,498000.0,2.0,2.0,976.0,7,No,1985,13 days,Condo,Contemporary,SAN JOSE,13.0
+2177 Alum Rock Ave #211,CA,San-Jose,95116,699999.0,2.0,2.0,1142.0,7,Yes,2005,1 day,Condo,Contemporary,SJOS - San Jose,1.0
+951 N 3rd St,CA,San-Jose,95112,1395000.0,3.0,2.0,2050.0,5,Yes,1938,7 days,Single Family Home,Tudor,SAN JOSE,7.0
+46 W Julian St #431,CA,San-Jose,95110,899000.0,2.0,2.0,1596.0,6,Yes,2004,14 days,Condo,Contemporary,SAN JOSE,14.0
+4770 Hatfield Ww #3,CA,San-Jose,95124,675000.0,2.0,1.0,903.0,9,No,1973,11 days,Condo,Contemporary,SAN JOSE,11.0
+4681 Albany Cir #132,CA,San-Jose,95129,588000.0,1.0,1.0,813.0,9,Yes,1982,19 days,Condo,Contemporary,SAN JOSE,19.0
+2904 Moss Hollow Dr #2904,CA,San-Jose,95121,300000.0,2.0,2.0,1680.0,8,No,1977,4 days,Triple-Wide Mobile Home,Contemporary,SAN JOSE,4.0
+2723 Westgate,CA,San-Jose,95125,2188000.0,4.0,3.0,1755.0,7,Yes,1955,18 days,Single Family Home,Contemporary,SAN JOSE,18.0
+410 Don Andres Ct,CA,San-Jose,95123,724888.0,3.0,1.5,1156.0,8,Yes,1970,6 days,Townhouse,Contemporary,SAN JOSE,6.0
+1365 Wildman Dr,CA,San-Jose,95127,1395888.0,4.0,2.5,2293.0,6,Yes,1968,5 days,Single Family Home,Traditional,SAN JOSE,5.0
+2217 S King Rd,CA,San-Jose,95122,998000.0,4.0,2.0,1352.0,5,Yes,1968,14 days,Single Family Home,Contemporary,SAN JOSE,14.0
+144 S 3rd St #332,CA,San-Jose,95112,588888.0,1.0,1.0,1023.0,6,Yes,1997,7 days,Condo,Contemporary,SAN JOSE,7.0
+1455 Hamilton Way,CA,San-Jose,95125,1898000.0,3.0,2.0,1581.0,7,Yes,1939,12 days,Single Family Home,Contemporary,SAN JOSE,12.0
+564 Giant Way,CA,San-Jose,95127,1678900.0,4.0,3.0,3177.0,4,Yes,1955,21 days,Single Family Home,Ranch,SAN JOSE,21.0
+3083 Oakbridge Dr #3083,CA,San-Jose,95121,349000.0,3.0,2.0,1440.0,8,No,1979,11 days,Double-Wide Mobile Home,Contemporary,SAN JOSE,11.0
+1743 El Codo Way,CA,San-Jose,95124,2500000.0,5.0,2.5,2423.0,9,Yes,1963,13 days,Single Family Home,Contemporary,SAN JOSE,13.0
+407 Sawyer St,CA,San-Francisco,94134,1275000.0,3.0,2.0,1476.0,6,Yes,1948,11 days,Single Family Residential,Contemporary,San Francisco,11.0
+67 Gladstone Dr,CA,San-Francisco,94112,1295000.0,3.0,3.5,1302.0,6,Yes,1942,19 hours,Single Family Residential,Traditional,San Francisco,0.7916666666666666
+840 - 844 Dolores St,CA,San-Francisco,94110,2875000.0,7.0,4.0,4074.0,7,No,1908,12 days,Multi-Family (2-4 Unit),Edwardian,San Francisco,12.0
+320 Alabama St #12,CA,San-Francisco,94110,1325000.0,3.0,2.0,1809.0,7,Yes,2003,3 days,Condo,Contemporary,San Francisco,3.0
+15 Winfield St,CA,San-Francisco,94110,1795000.0,2.0,2.0,1554.0,4,Yes,1924,4 days,Single Family Residential,Contemporary,San Francisco,4.0
+1515 12th Ave,CA,San-Francisco,94122,1900000.0,5.0,3.0,2578.0,9,Yes,2010,14 days,Condo,Contemporary,San Francisco,14.0
+61 Coleridge St,CA,San-Francisco,94110,1849000.0,3.0,2.5,1654.0,4,Yes,1883,24 hours,Single Family Residential,Victorian,San Francisco,1.0
+425 1st St #4306,CA,San-Francisco,94105,1795000.0,2.0,2.0,1238.0,5,Yes,2008,10 days,Condo,Contemporary,San Francisco,10.0
+601 Van Ness Ave #40,CA,San-Francisco,94102,789000.0,2.0,2.0,1004.0,7,No,1982,3 days,Condo,Contemporary,San Francisco,3.0
+66 Flora St,CA,San-Francisco,94124,969000.0,2.0,2.0,1024.0,5,No,1909,29 days,Single Family Home,Contemporary,SAN FRANCISCO,29.0
+1483 Sutter St #714,CA,San-Francisco,94109,1089000.0,2.0,2.0,1165.0,8,Yes,1993,29 days,Condo,"Contemporary, Modern/High Tech",San Francisco,29.0
+273 - 275 Sussex St,CA,San-Francisco,94131,3395000.0,4.0,4.0,3304.0,9,No,1931,11 days,Single Family Residential,Contemporary,San Francisco,11.0
+52 Kirkwood #307,CA,San-Francisco,94124,499000.0,1.0,1.0,741.0,6,Yes,2023,9 days,Condo,Contemporary,Hunters Point,9.0
+250 King St #1210,CA,San-Francisco,94107,819000.0,1.0,1.0,822.0,5,Yes,2004,3 days,Condo,Contemporary,SAN FRANCISCO,3.0
+661 Vienna St,CA,San-Francisco,94112,950000.0,4.0,2.0,1725.0,7,Yes,1908,11 days,Single Family Residential,Contemporary,San Francisco,11.0
+79 Summit Way,CA,San-Francisco,94132,1600000.0,3.0,2.5,2133.0,6,Yes,2015,8 days,Townhouse,Contemporary,SFO - San Francisco,8.0
+1240 15th Ave,CA,San-Francisco,94122,1500000.0,4.0,2.0,2160.0,8,Yes,1916,3 days,Single Family Residence,Contemporary,San Francisco,3.0
+3014 Market St,CA,San-Francisco,94114,1325000.0,2.0,1.0,1028.0,7,Yes,1904,11 days,Single Family Residential,Victorian,San Francisco,11.0
+301 Mission St Unit 48A,CA,San-Francisco,94105,1295000.0,2.0,2.0,1530.0,5,No,2009,7 days,Condo,Contemporary,San Francisco,7.0
+743 47th Ave,CA,San-Francisco,94121,1150000.0,2.0,1.0,1278.0,8,Yes,1906,25 hours,Condo,Edwardian,San Francisco,1.0416666666666667
+30 Harry St,CA,San-Francisco,94131,989000.0,4.0,2.5,1368.0,9,No,1914,35 hours,Single Family Residential,Other,San Francisco,1.4583333333333333
+238 Olive St #202,CA,San-Francisco,94109,898000.0,2.0,2.0,1154.0,7,Yes,2010,7 days,Condo,Contemporary,SAN FRANCISCO,7.0
+1201 California St #1602,CA,San-Francisco,94109,4145000.0,2.0,2.5,2264.0,6,Yes,1927,28 days,Condo (Co-op),Contemporary,San Francisco,28.0
+633 Banks St,CA,San-Francisco,94110,1595000.0,3.0,2.0,1613.0,6,Yes,1951,11 days,Single Family Residential,Mid-Century,San Francisco,11.0
+396 Guerrero St,CA,San-Francisco,94103,1395000.0,3.0,1.5,1738.0,4,No,1907,10 days,Condo,Victorian,San Francisco,10.0
+62 Delmar St,CA,San-Francisco,94117,1495000.0,3.0,1.5,1149.0,8,Yes,1908,10 days,Condo,Contemporary,San Francisco,10.0
+1980 Sutter St #203,CA,San-Francisco,94115,869000.0,1.0,1.0,829.0,8,Yes,1984,4 days,Condo,Traditional,LOWER PAC HTS,4.0
+55 Child St #2,CA,San-Francisco,94133,2595000.0,3.0,2.0,1700.0,6,Yes,1977,25 hours,Condo,Mid-Century,San Francisco,1.0416666666666667
+3857 18th St,CA,San-Francisco,94114,1350000.0,2.0,2.0,1563.0,7,Yes,1885,11 days,Condo,Victorian,San Francisco,11.0
+601 Van Ness Ave #521,CA,San-Francisco,94102,525000.0,1.0,1.0,724.0,7,No,1982,5 days,Condo,Contemporary,San Francisco,5.0
+139 Marietta Dr,CA,San-Francisco,94127,1995000.0,3.0,2.5,2070.0,9,Yes,1951,11 days,Single Family Residential,Contemporary,San Francisco,11.0
+75 Folsom St #1502,CA,San-Francisco,94105,3295000.0,2.0,2.0,2635.0,5,No,1991,7 days,Condo,Contemporary,San Francisco,7.0
+1000 North Point St #1801,CA,San-Francisco,94109,2995000.0,4.0,3.0,2365.0,9,Yes,1965,6 days,Condo (Co-op),Contemporary,San Francisco,6.0
+311 Shotwell St,CA,San-Francisco,94110,899000.0,2.0,1.5,1250.0,7,Yes,1900,2 days,Single Family Residential,Victorian,San Francisco,2.0
+221 Sagamore St,CA,San-Francisco,94112,788000.0,4.0,2.0,1419.0,4,Yes,1914,9 days,Single Family Residential,Contemporary,San Francisco,9.0
+804 De Haro St,CA,San-Francisco,94107,1998000.0,3.0,2.0,2135.0,7,No,1975,12 days,Single Family Residential,Contemporary,San Francisco,12.0
+5264 3rd St #304,CA,San-Francisco,94124,575000.0,2.0,2.0,805.0,6,Yes,1993,4 days,Condo,Contemporary,SAN FRANCISCO,4.0
+2062 20th Ave,CA,San-Francisco,94116,1200000.0,3.0,2.0,1805.0,8,Yes,1929,5 days,Single Family Residential,Contemporary,San Francisco,5.0
+850 Urbano Dr,CA,San-Francisco,94127,2195000.0,4.0,2.0,2173.0,8,No,1916,5 days,Single Family Residential,Traditional,San Francisco,5.0
+634 Laguna St Unit A,CA,San-Francisco,94102,1249000.0,3.0,2.0,1100.0,5,Yes,1991,11 days,Condo,Flat,San Francisco,11.0
+2880 Green St,CA,San-Francisco,94123,9950000.0,5.0,5.5,5600.0,6,Yes,1917,29 days,Single Family Residential,"Edwardian, See Remarks",San Francisco,29.0
+2546 3rd St #4,CA,San-Francisco,94107,1395000.0,3.0,2.5,1641.0,5,Yes,2002,29 days,Condo,Contemporary,San Francisco,29.0
+954 Ingerson Ave,CA,San-Francisco,94124,1495000.0,8.0,4.0,3076.0,6,Yes,1910,10 hours,Multi-Family (2-4 Unit),Vintage,San Francisco,0.4166666666666667
+2595 Clay St #6,CA,San-Francisco,94115,599000.0,1.0,1.0,475.0,7,No,1924,2 days,Condo,Marina,San Francisco,2.0
+140 South Van Ness Ave #1019,CA,San-Francisco,94103,948888.0,2.0,2.0,1075.0,5,Yes,2002,3 days,Condo,"Contemporary, Luxury, Modern/High Tech",SAN FRANCISCO,3.0
+466 Point Lobos Ave,CA,San-Francisco,94121,1499000.0,3.0,2.0,1892.0,8,Yes,1941,28 days,Single Family Residential,Marina,San Francisco,28.0
+1224 16th Ave,CA,San-Francisco,94122,1795000.0,4.0,2.5,2919.0,8,Yes,1908,2 days,Single Family Residential,Edwardian,San Francisco,2.0
+1492 Larkin St #2,CA,San-Francisco,94109,899000.0,2.0,2.0,923.0,6,No,1907,13 days,Condo (Tenancy in Common),Contemporary,San Francisco,13.0
+160 Graystone Ter #9,CA,San-Francisco,94114,975000.0,1.0,1.0,918.0,9,No,1951,10 days,Condo (Tenancy in Common),Contemporary,San Francisco,10.0
+325 China Basin St #515,CA,San-Francisco,94158,1395000.0,2.0,2.0,1295.0,5,Yes,2008,10 days,Condo,Contemporary,San Francisco,10.0
+514 Wisconsin St,CA,San-Francisco,94107,929000.0,2.0,2.0,1050.0,5,Yes,1978,11 days,Condo,Contemporary,San Francisco,11.0
+655 Goettingen St,CA,San-Francisco,94134,1349000.0,4.0,2.0,2079.0,6,No,1924,29 days,Single Family Residential,Contemporary,San Francisco,29.0
+1100 Sacramento St #402,CA,San-Francisco,94108,4750000.0,3.0,3.5,2426.0,9,Yes,1925,28 days,Condo (Tenancy in Common),Traditional,San Francisco,28.0
+1477 7th Ave,CA,San-Francisco,94122,3000000.0,6.0,4.0,4346.0,9,Yes,1964,2 days,Multi-Family (5+ Unit),Contemporary,San Francisco,2.0
+1913 Eddy St #612,CA,San-Francisco,94115,1095000.0,3.0,2.0,1243.0,8,Yes,1983,4 days,Condo,Victorian,San Francisco,4.0
+953 Dwight St,CA,San-Francisco,94134,799000.0,5.0,3.0,2370.0,6,Yes,1957,5 days,Single Family Residential,Contemporary,San Francisco,5.0
+1123 Palou Ave,CA,San-Francisco,94124,899000.0,5.0,2.5,2100.0,6,Yes,1941,5 days,Single Family Residential,Contemporary,San Francisco,5.0
+1150 Folsom St #2,CA,San-Francisco,94103,799000.0,1.0,1.5,1200.0,5,Yes,2000,6 days,Condo,Modern/High Tech,San Francisco,6.0
+14 Ardenwood Way,CA,San-Francisco,94132,1995000.0,3.0,4.0,2785.0,7,Yes,1933,11 days,Single Family Residential,"Mediterranean, Spanish, Traditional",San Francisco,11.0
+1215 Kirkham St,CA,San-Francisco,94122,1050000.0,2.0,1.0,1161.0,8,Yes,1979,7 days,Condo,Contemporary,San Francisco,7.0
+2100 Green St #800,CA,San-Francisco,94123,5495000.0,2.0,2.5,3122.0,7,Yes,1928,13 days,Condo (Co-op),Traditional,San Francisco,13.0
+1527 Underwood Ave,CA,San-Francisco,94124,975000.0,5.0,3.0,2038.0,6,Yes,1937,11 days,Single Family Residential,Contemporary,San Francisco,11.0
+814 - 818 Divisadero St,CA,San-Francisco,94117,2395000.0,9.0,6.0,6359.0,8,No,1900,25 hours,Multi-Family (2-4 Unit),Contemporary,San Francisco,1.0416666666666667
+1750 Taylor St #1401,CA,San-Francisco,94133,11500000.0,2.0,2.5,3640.0,9,Yes,1961,8 days,Condo (Co-op),"Contemporary, Modern/High Tech",San Francisco,8.0
+154 Lombard St #53,CA,San-Francisco,94111,1149000.0,2.0,2.5,1274.0,6,No,1975,20 hours,Condo,Contemporary,San Francisco,0.8333333333333334
+2211 Leavenworth St,CA,San-Francisco,94133,2600000.0,3.0,2.5,1750.0,9,Yes,1938,4 days,Condo,Contemporary,San Francisco,4.0
+3921 - 3925 19th St,CA,San-Francisco,94114,1299000.0,4.0,3.0,1918.0,7,No,1911,6 days,Multi-Family (2-4 Unit),Contemporary,San Francisco,6.0
+2287 47th Ave,CA,San-Francisco,94116,1300000.0,2.0,1.0,1025.0,9,Yes,1951,10 days,Single Family Residential,Contemporary,SUNSET,10.0
+1607 - 1609 27th Ave,CA,San-Francisco,94122,1990000.0,4.0,2.0,2572.0,9,Yes,1953,4 days,Multi-Family (2-4 Unit),Contemporary,San Francisco,4.0
+600 Prentiss St,CA,San-Francisco,94110,998888.0,2.0,2.0,930.0,6,Yes,1951,9 days,Single Family Residential,Contemporary,San Francisco,9.0
+2218 15th St,CA,San-Francisco,94114,1725000.0,2.0,2.0,1622.0,7,Yes,1932,4 days,Condo,Contemporary,San Francisco,4.0
+2637 Buchanan St,CA,San-Francisco,94115,3995000.0,5.0,3.5,4005.0,7,Yes,1905,1 day,Condo,Victorian,San Francisco,1.0
+1835 Franklin St #703,CA,San-Francisco,94109,1349000.0,2.0,2.0,1492.0,7,Yes,1965,12 days,Condo,Contemporary,PACIFIC HEIGHTS,12.0
+555 Fulton St #435,CA,San-Francisco,94102,750000.0,1.0,1.0,714.0,5,No,2020,4 days,Condo,Contemporary,SAN FRANCISCO,4.0
+74 New Montgomery St #317,CA,San-Francisco,94105,361677.0,2.0,2.0,1089.0,5,No,1914,4 days,Condo,Contemporary,San Francisco,4.0
+757 North Point St #2,CA,San-Francisco,94109,1465000.0,2.0,2.0,1519.0,9,Yes,1989,3 days,Condo,Contemporary,Russian Hill,3.0
+25 Appleton Ave,CA,San-Francisco,94110,1500000.0,4.0,3.0,1949.0,7,Yes,1904,3 days,Duplex,Contemporary,SAN FRANCISCO,3.0
+1565 Palou Ave,CA,San-Francisco,94124,799000.0,3.0,2.0,1386.0,6,Yes,1965,12 days,Single Family Residential,Contemporary,San Francisco,12.0
+675 10th Ave #675,CA,San-Francisco,94118,1343249.0,3.0,2.0,2245.0,9,Yes,1923,4 days,Condo (Tenancy in Common),Craftsman,San Francisco,4.0
+280 Spear St Unit 1F,CA,San-Francisco,94105,899000.0,2.0,1.0,823.0,5,No,2022,5 days,Condo,Modern/High Tech,San Francisco,5.0
+1050 N North Point St #206,CA,San-Francisco,94109,675000.0,1.0,1.0,676.0,9,No,1963,11 days,Condo,Contemporary,Russian Hill,11.0
+181 Fremont St Unit 55C,CA,San-Francisco,94105,2995000.0,2.0,2.5,1605.0,5,No,2018,11 days,Condo,"Contemporary, Modern/High Tech",San Francisco,11.0
+345 Ewing Ter,CA,San-Francisco,94118,2995000.0,4.0,3.0,2606.0,8,Yes,1941,11 days,Single Family Home,Contemporary,SAN FRANCISCO,11.0
+2001 Mcallister St #120,CA,San-Francisco,94118,700000.0,1.0,1.0,680.0,8,Yes,2002,11 days,Condo,Contemporary,San Francisco,11.0
+1020 Union St #7,CA,San-Francisco,94133,2395000.0,2.0,2.0,2160.0,9,Yes,1921,27 hours,Condo (Co-op),"Mediterranean, Spanish",San Francisco,1.125
+68 Patton St,CA,San-Francisco,94110,715000.0,2.0,1.0,730.0,7,No,1908,4 days,Condo,"Bungalow, Marina, Traditional",San Francisco,4.0
+620 Clarendon Ave,CA,San-Francisco,94131,1329000.0,3.0,2.5,1763.0,9,Yes,1977,11 days,Townhouse,Contemporary,San Francisco,11.0
+2300 Leavenworth St,CA,San-Francisco,94133,3495000.0,4.0,2.0,2115.0,9,Yes,1913,29 days,Single Family Residential,Edwardian,San Francisco,29.0
+1158 Sutter St #8,CA,San-Francisco,94109,779000.0,2.0,2.0,810.0,6,No,2008,12 days,Condo,Contemporary,San Francisco,12.0
+193 Bright St,CA,San-Francisco,94132,1199999.0,6.0,4.0,2806.0,9,Yes,1965,14 days,Duplex,Traditional,SAN FRANCISCO,14.0
+2601 Lyon St,CA,San-Francisco,94123,6500000.0,4.0,3.5,4554.0,8,Yes,1923,4 days,Single Family Residential,"Mediterranean, See Remarks",San Francisco,4.0
+708 Hayes St,CA,San-Francisco,94102,795000.0,3.0,2.0,1332.0,5,No,1900,11 days,Condo (Tenancy in Common),Contemporary,San Francisco,11.0
+1487 Mcallister St,CA,San-Francisco,94115,2250000.0,3.0,2.0,2292.0,8,No,1890,5 days,Condo,Contemporary,SAN FRANCISCO,5.0
+10 Innes Ct #208,CA,San-Francisco,94124,650000.0,1.0,1.0,736.0,6,Yes,2018,16 hours,Condo,Contemporary,Hunters Point,0.6666666666666666
+2226 Beach St,CA,San-Francisco,94123,1050000.0,1.0,1.0,841.0,6,Yes,1950,4 days,Condo,Contemporary,San Francisco,4.0
+719 29th Ave,CA,San-Francisco,94121,1095000.0,3.0,1.0,1204.0,7,Yes,1924,3 days,Single Family Residential,Traditional,San Francisco,3.0
+738 Fell St,CA,San-Francisco,94117,1598000.0,3.0,2.5,1785.0,5,Yes,1890,11 days,Condo,Victorian,San Francisco,11.0
+526 Arlington St,CA,San-Francisco,94131,1295000.0,4.0,2.0,1445.0,7,No,1987,4 days,Single Family Residential,Contemporary,San Francisco,4.0
+280 Spear St Unit 31C,CA,San-Francisco,94105,1995000.0,2.0,2.0,1270.0,5,No,2020,12 days,Condo,Modern/High Tech,San Francisco,12.0
+335 Berry St #108,CA,San-Francisco,94158,527536.0,2.0,2.0,992.0,5,No,2009,11 days,Condo,Contemporary,San Francisco,11.0
+1396 Geneva Ave,CA,San-Francisco,94112,899000.0,2.0,1.0,1154.0,7,Yes,1915,14 days,Single Family Residential,Craftsman,San Francisco,14.0
+181 Ofarrell St #513,CA,San-Francisco,94102,1950000.0,3.0,2.0,2516.0,6,No,2006,34 hours,Condo,Contemporary,San Francisco,1.4166666666666667
+160 Graystone Ter #8,CA,San-Francisco,94114,950000.0,1.0,1.0,766.0,9,No,1951,10 days,Condo (Tenancy in Common),Contemporary,San Francisco,10.0
+1 Steuart Ln #1706,CA,San-Francisco,94105,8650000.0,3.0,3.0,2351.0,5,Yes,2021,4 days,Condo,"Contemporary, Modern/High Tech",San Francisco,4.0
+1650 48th Ave,CA,San-Francisco,94122,1799000.0,3.0,2.0,2004.0,8,Yes,1948,4 days,Single Family Residential,Contemporary,San Francisco,4.0
+224 Lexington St,CA,San-Francisco,94110,1079000.0,2.0,1.0,1100.0,7,No,1906,4 days,Condo,Victorian,San Francisco,4.0
+996 Union St,CA,San-Francisco,94133,1420000.0,2.0,2.0,1349.0,9,No,1907,2 days,Condo,Contemporary,San Francisco,2.0
+42 - 50 Allen St,CA,San-Francisco,94109,1998000.0,7.0,4.0,3560.0,9,Yes,1910,34 hours,Multi-Family (2-4 Unit),Contemporary,San Francisco,1.4166666666666667
+2830 22nd St #3,CA,San-Francisco,94110,995000.0,2.0,1.5,1090.0,4,Yes,1900,5 days,Condo (Tenancy in Common),Contemporary,San Francisco,5.0
+900 Bush St #521,CA,San-Francisco,94109,898000.0,2.0,2.0,1003.0,6,No,1982,11 days,Condo,Contemporary,San Francisco,11.0
+1861 Mcallister St,CA,San-Francisco,94115,1795000.0,3.0,2.5,1680.0,8,Yes,1925,4 days,Condo,"Edwardian, Marina, Mediterranean",San Francisco,4.0
+550 Valley St,CA,San-Francisco,94131,2895000.0,4.0,3.0,2261.0,9,No,1931,4 days,Single Family Residential,"Contemporary, Mediterranean",San Francisco,4.0
+474 27th Ave,CA,San-Francisco,94121,3400000.0,4.0,6.0,4896.0,8,Yes,1964,13 days,5+ Units,Contemporary,SAN FRANCISCO,13.0
+1001 Pine St #310,CA,San-Francisco,94109,599000.0,1.0,1.0,616.0,6,Yes,1963,5 days,Condo,Contemporary,San Francisco,5.0
+145 Hampshire St Unit B,CA,San-Francisco,94103,2299000.0,4.0,3.0,3083.0,7,Yes,2001,12 days,Condo,Contemporary,San Francisco,12.0
+642 Mangels Ave,CA,San-Francisco,94127,1595000.0,3.0,2.0,1670.0,6,Yes,1927,2 days,Single Family Residential,Contemporary,San Francisco,2.0
+765 Market St Unit 33H,CA,San-Francisco,94103,1850000.0,2.0,2.5,1510.0,5,No,2001,3 days,Condo,Contemporary,San Francisco,3.0
+64 El Sereno Ct,CA,San-Francisco,94127,1195000.0,3.0,1.0,1325.0,9,Yes,1927,3 days,Single Family Residential,"Mediterranean, Spanish",San Francisco,3.0
+51 Innes Ct,CA,San-Francisco,94124,1290000.0,5.0,2.0,1600.0,6,No,2017,10 days,Condo,Contemporary,San Francisco,10.0
+3701 Divisadero St #203,CA,San-Francisco,94123,1049000.0,1.0,1.0,901.0,6,Yes,1992,4 days,Condo,Contemporary,San Francisco,4.0
+219 Brannan St Unit 8B,CA,San-Francisco,94107,699000.0,1.0,1.0,735.0,5,Yes,2000,12 days,Condo,Contemporary,SAN FRANCISCO,12.0
+404 Ashbury St #1,CA,San-Francisco,94117,549000.0,1.0,1.0,669.0,8,No,1900,11 days,Condo (Tenancy in Common),Contemporary,San Francisco,11.0
+172 Los Palmos Dr,CA,San-Francisco,94127,899000.0,4.0,1.0,1470.0,9,Yes,1955,6 days,Single Family Residential,Contemporary,San Francisco,6.0
+449 39th Ave,CA,San-Francisco,94121,1695000.0,4.0,2.5,1840.0,8,No,1916,13 days,Single Family Residential,Craftsman,San Francisco,13.0
+1233 Howard St #716,CA,San-Francisco,94103,1799000.0,2.0,2.5,2980.0,5,No,2000,4 days,Condo,Contemporary,San Francisco,4.0
+301 Mission St Unit 50A,CA,San-Francisco,94105,3850000.0,2.0,3.0,2706.0,5,No,2009,13 days,Condo,Contemporary,San Francisco,13.0
+339 Sweeny St,CA,San-Francisco,94134,1200000.0,2.0,1.0,1248.0,6,Yes,1940,7 days,Single Family Residence,Contemporary,699 - Not Defined,7.0
+36 Prado St,CA,San-Francisco,94123,2249000.0,3.0,2.0,2252.0,7,Yes,1936,5 days,Single Family Residential,Traditional,San Francisco,5.0
+1444 Vallejo St #2,CA,San-Francisco,94109,1195000.0,2.0,2.0,1133.0,9,No,1925,7 days,Condo (Tenancy in Common),"Contemporary, Edwardian, Flat",San Francisco,7.0
+22 Allison St,CA,San-Francisco,94112,899000.0,2.0,1.5,1534.0,7,Yes,1941,12 days,Single Family Residential,Vintage,San Francisco,12.0
+926 - 928 Diamond St,CA,San-Francisco,94114,3895000.0,5.0,4.0,3872.0,9,Yes,1900,4 days,Multi-Family (2-4 Unit),"Contemporary, Modern/High Tech, Traditional",San Francisco,4.0
+70 Ellsworth St,CA,San-Francisco,94110,1595000.0,2.0,1.5,1480.0,7,Yes,1914,4 days,Single Family Residential,Contemporary,San Francisco,4.0
+58 Varennes St Unit B,CA,San-Francisco,94133,699000.0,2.0,1.0,580.0,8,No,1906,10 days,Condo,Contemporary,San Francisco,10.0
+3253 Harrison St,CA,San-Francisco,94110,1449000.0,3.0,1.0,1400.0,3,No,1908,5 days,Condo,Contemporary,San Francisco,5.0
+424 Tocoloma Ave,CA,San-Francisco,94134,999900.0,4.0,1.0,1050.0,6,No,1939,29 days,Single Family Home,Contemporary,SAN FRANCISCO,29.0
+675 - 677 10th Ave #677,CA,San-Francisco,94118,1455187.0,3.0,2.0,2130.0,9,Yes,1923,4 days,Condo (Tenancy in Common),Craftsman,San Francisco,4.0
+822 45th Ave,CA,San-Francisco,94121,1898000.0,4.0,2.0,2033.0,8,No,1924,28 days,Single Family Residential,Contemporary,San Francisco,28.0
+Undisclosed Address,CA,San-Francisco,94110,2500000.0,1.0,1.0,3830.0,7,No,1988,7 days,Condo,Contemporary,San Francisco,7.0
+88 King St #318,CA,San-Francisco,94107,1188000.0,2.0,2.0,1116.0,5,Yes,2000,11 days,Condo,Modern/High Tech,San Francisco,11.0
+18 - 20 Chenery St,CA,San-Francisco,94131,2149000.0,5.0,3.0,2730.0,9,Yes,1908,8 days,Multi-Family (2-4 Unit),Edwardian,San Francisco,8.0
+2990 - 2992 California St,CA,San-Francisco,94115,1995000.0,4.0,2.0,3815.0,8,Yes,1907,3 days,Single Family Residential,Contemporary,San Francisco,3.0
+1200 California St Unit 11A,CA,San-Francisco,94109,1399000.0,2.0,1.5,1450.0,6,Yes,1964,34 hours,Condo (Co-op),Mid-Century,San Francisco,1.4166666666666667
+3114 Clay St #5,CA,San-Francisco,94115,929000.0,2.0,1.0,867.0,8,No,1907,2 days,Condo (Tenancy in Common),Contemporary,San Francisco,2.0
+2800 Pacific Ave,CA,San-Francisco,94115,14995000.0,5.0,5.0,8179.0,6,Yes,1908,10 days,Single Family Residential,"Georgian, Traditional",San Francisco,10.0
+60 Elgin Park Park,CA,San-Francisco,94103,1295000.0,2.0,2.0,1363.0,3,Yes,1907,4 days,Condo,Edwardian,San Francisco,4.0
+542 Plymouth Ave,CA,San-Francisco,94112,998000.0,3.0,2.0,1370.0,5,Yes,1928,4 days,Single Family Residential,Contemporary,San Francisco,4.0
+110 Channel St #306,CA,San-Francisco,94158,1495000.0,2.0,2.0,1071.0,5,No,2017,5 days,Condo,Contemporary,San Francisco,5.0
+451 Kansas St #398,CA,San-Francisco,94107,1089000.0,2.0,2.0,1000.0,5,Yes,2007,10 days,Condo,Contemporary,San Francisco,10.0
+1925 23rd St,CA,San-Francisco,94107,1595000.0,3.0,2.0,1530.0,7,No,1911,5 days,Single Family Residential,Contemporary,San Francisco,5.0
+1534 - 1536 Alabama St,CA,San-Francisco,94110,1425000.0,4.0,2.0,2200.0,4,Yes,1925,12 days,Multi-Family (2-4 Unit),Contemporary,San Francisco,12.0
+1318 Page St,CA,San-Francisco,94117,4185000.0,4.0,4.5,3345.0,8,Yes,2003,3 days,Single Family Residential,"Modern/High Tech, Victorian",San Francisco,3.0
+15 Rico Way #3,CA,San-Francisco,94123,1298888.0,2.0,1.0,1045.0,7,Yes,1929,28 days,Condo (Tenancy in Common),Mediterranean,SAN FRANCISCO,28.0
+181 Summit Way,CA,San-Francisco,94132,1399000.0,3.0,2.5,2133.0,6,Yes,2016,7 days,Townhouse,Contemporary,San Francisco,7.0
+2338 California St,CA,San-Francisco,94115,4545000.0,4.0,3.5,3090.0,8,Yes,1875,11 days,Single Family Residential,Victorian,San Francisco,11.0
+601 Alabama St #309,CA,San-Francisco,94110,1269800.0,3.0,2.0,1430.0,7,No,2009,7 days,Condo,Contemporary,San Francisco,7.0
+708 Long Bridge St #508,CA,San-Francisco,94158,1550000.0,2.0,2.0,1192.0,5,Yes,2016,21 hours,Condo,Contemporary,SAN FRANCISCO,0.875
+200 Brannan St #121,CA,San-Francisco,94107,925000.0,1.0,1.0,882.0,5,Yes,2004,8 days,Condo,Modern/High Tech,SOUTH BEACH,8.0
+1515 15th St #503,CA,San-Francisco,94103,699000.0,1.0,1.0,650.0,7,Yes,2014,11 days,Condo,"Contemporary, Luxury, Modern/High Tech",SAN FRANCISCO,11.0
+858 Ashbury,CA,San-Francisco,94117,3250000.0,6.0,6.0,5218.0,8,Yes,1910,7 days,Fourplex,Edwardian,SAN FRANCISCO,7.0
+1501 Filbert St Ph 7F,CA,San-Francisco,94123,2995000.0,2.0,2.5,1634.0,7,Yes,2014,10 days,Condo,Contemporary,San Francisco,10.0
+320 30th Ave,CA,San-Francisco,94121,1898000.0,3.0,3.5,1771.0,8,Yes,2023,13 days,Condo,Contemporary,OUTER RICHMOND,13.0
+989 - 991 Duncan St,CA,San-Francisco,94131,2195000.0,4.0,4.0,2660.0,9,Yes,1962,11 days,Multi-Family (2-4 Unit),Mid-Century,San Francisco,11.0
+2823 - 2825 Golden Gate Ave,CA,San-Francisco,94118,2100000.0,7.0,4.5,2750.0,8,Yes,1911,8 hours,Multi-Family (2-4 Unit),Contemporary,San Francisco,0.3333333333333333
+433 Collingwood St Unit B,CA,San-Francisco,94114,2199000.0,2.0,2.0,1769.0,9,Yes,2003,11 days,Condo,Contemporary,San Francisco,11.0
+329 Waller St #2,CA,San-Francisco,94117,1100000.0,2.0,2.5,1074.0,5,No,1900,5 days,Condo,Contemporary,San Francisco,5.0
+1919 21st Ave,CA,San-Francisco,94116,1100000.0,2.0,1.0,1125.0,8,No,1938,3 days,Single Family Residential,Contemporary,San Francisco,3.0
+1849 Lyon St,CA,San-Francisco,94118,2750000.0,4.0,3.0,1973.0,8,Yes,1900,4 days,Condo,Edwardian,San Francisco,4.0
+301 Mission St Unit 4C,CA,San-Francisco,94105,699000.0,1.0,1.0,833.0,5,No,2009,21 days,Condo,Contemporary,San Francisco,21.0
+1177 California St #1533,CA,San-Francisco,94108,699000.0,1.0,1.0,756.0,6,Yes,1978,28 days,Condo,Traditional,San Francisco,28.0
+36 Farallones St,CA,San-Francisco,94112,699000.0,2.0,1.0,875.0,4,Yes,1925,34 hours,Single Family Residential,Contemporary,San Francisco,1.4166666666666667
+807 Columbus Ave #202,CA,San-Francisco,94133,1350000.0,2.0,2.0,1156.0,9,Yes,2003,4 days,Condo,Contemporary,San Francisco,4.0
+4998 Mission St,CA,San-Francisco,94112,900000.0,3.0,1.0,1375.0,7,No,1923,11 days,Single Family Residential,Contemporary,Outer Mission,11.0
+54 Germania St,CA,San-Francisco,94117,949000.0,2.0,1.0,952.0,5,No,1908,5 days,Condo,Contemporary,SAN FRANCISCO,5.0
+1945 Fulton St,CA,San-Francisco,94117,999000.0,3.0,1.0,2530.0,8,Yes,1923,4 days,Condo (Tenancy in Common),Edwardian,San Francisco,4.0
+68 Mccoppin St #5,CA,San-Francisco,94103,860000.0,1.0,1.0,748.0,2,Yes,1996,3 days,Condo,Contemporary,San Francisco,3.0
+210 Lake St,CA,San-Francisco,94118,1488000.0,4.0,2.0,2475.0,8,No,1900,4 days,Single Family Residential,Edwardian,San Francisco,4.0
+2694 Bush St,CA,San-Francisco,94115,1399000.0,3.0,1.0,1471.0,8,Yes,1900,12 days,Condo,Edwardian,LOWER PAC HTS,12.0
+710 El Camino Del Mar St,CA,San-Francisco,94121,12900000.0,6.0,5.0,6854.0,8,Yes,1928,28 days,Single Family Residential,Spanish,San Francisco,28.0
+1000 North Pt #207,CA,San-Francisco,94109,549000.0,1.0,1.0,592.0,9,Yes,1965,7 days,Condo,Contemporary,MARINA,7.0
+554 18th Ave,CA,San-Francisco,94121,1780000.0,3.0,1.0,2015.0,7,Yes,1915,17 hours,Single Family Residential,Contemporary,San Francisco,0.7083333333333334
+4171 26th St,CA,San-Francisco,94131,1325000.0,2.0,1.0,1101.0,9,Yes,1925,5 days,Condo,Contemporary,San Francisco,5.0
+601 Van Ness Ave #712,CA,San-Francisco,94102,539000.0,1.0,1.0,708.0,7,No,1982,12 days,Condo,Contemporary,San Francisco,12.0
+3002 26th St,CA,San-Francisco,94110,999000.0,3.0,2.0,1250.0,4,No,1930,13 days,Condo (Tenancy in Common),Contemporary,SAN FRANCISCO,13.0
+1461 Broadway #406,CA,San-Francisco,94109,995000.0,2.0,2.0,1075.0,9,Yes,1981,5 days,Condo,Contemporary,San Francisco,5.0
+651 41st Ave,CA,San-Francisco,94121,2675000.0,5.0,4.0,2345.0,8,Yes,1923,10 days,Single Family Residential,Contemporary,San Francisco,10.0
+512 - 520 Grant Ave,CA,San-Francisco,94108,5395000.0,5.0,4.0,7760.0,9,No,1908,11 days,Multi-Family (5+ Unit),Contemporary,San Francisco,11.0
+25 Sierra St Unit E102,CA,San-Francisco,94107,1295000.0,3.0,2.0,1680.0,7,Yes,2007,11 days,Condo,Contemporary,San Francisco,11.0
+3542 24th St,CA,San-Francisco,94110,1795000.0,5.0,2.0,3208.0,4,Yes,1900,10 days,Multi-Family (2-4 Unit),Contemporary,San Francisco,10.0
+1517 12th Ave,CA,San-Francisco,94122,1900000.0,5.0,3.0,2572.0,9,Yes,2010,14 days,Condo,Contemporary,San Francisco,14.0
+15 - 15A Woodland Ave,CA,San-Francisco,94117,2399000.0,4.0,3.0,2369.0,8,No,1909,4 days,Multi-Family (2-4 Unit),Arts &amp; Crafts,San Francisco,4.0
+579 23rd Ave,CA,San-Francisco,94121,1795000.0,2.0,2.0,1360.0,7,Yes,1924,4 days,Single Family Residential,Traditional,RICHMOND DIST,4.0
+4399 25th St,CA,San-Francisco,94114,925000.0,1.0,1.0,1020.0,9,No,1908,11 days,Condo (Tenancy in Common),Contemporary,San Francisco,11.0
+3530 Washington St,CA,San-Francisco,94118,11750000.0,5.0,5.0,6315.0,8,Yes,1912,1 day,Single Family Residential,Traditional,San Francisco,1.0
+1960 Vallejo St #8,CA,San-Francisco,94123,5495000.0,3.0,3.0,2294.0,7,No,1925,28 days,Condo (Co-op),Traditional,San Francisco,28.0
+260 King St #365,CA,San-Francisco,94107,950000.0,2.0,2.0,1187.0,5,Yes,2004,29 days,Condo,Contemporary,San Francisco,29.0
+180 Avila St,CA,San-Francisco,94123,3395000.0,3.0,2.0,2750.0,7,Yes,1927,23 hours,Single Family Residential,Mediterranean,San Francisco,0.9583333333333334
+852 Chenery St,CA,San-Francisco,94131,3295000.0,4.0,3.5,2940.0,9,Yes,1909,4 days,Multi-Family (2-4 Unit),Contemporary,San Francisco,4.0
+366 Staples Ave,CA,San-Francisco,94112,1098000.0,3.0,2.0,2070.0,6,Yes,1921,4 days,Single Family Residential,Traditional,San Francisco,4.0
+226 Bocana St,CA,San-Francisco,94110,1295000.0,2.0,2.0,1456.0,7,Yes,1929,11 days,Single Family Residential,"Art Deco, Edwardian",San Francisco,11.0
+52 Leo St,CA,San-Francisco,94112,1050000.0,3.0,1.0,1534.0,7,Yes,1939,12 days,Single Family Residential,Contemporary,San Francisco,12.0
+79 Arbor St,CA,San-Francisco,94131,2998000.0,4.0,3.0,2460.0,9,Yes,1951,27 hours,Single Family Residential,"Contemporary, Mid-Century",San Francisco,1.125
+168 De Soto St,CA,San-Francisco,94127,2395000.0,5.0,3.0,2465.0,8,No,1923,5 days,Single Family Residential,"Arts &amp; Crafts, Traditional",San Francisco,5.0
+120 Morningside Dr,CA,San-Francisco,94132,1808000.0,3.0,2.5,1880.0,6,Yes,1951,5 days,Single Family Residential,Mid-Century,San Francisco,5.0
+359 Diamond St,CA,San-Francisco,94114,2195000.0,3.0,1.5,1550.0,9,No,1912,2 days,Single Family Residential,Arts &amp; Crafts,San Francisco,2.0
+675 - 677 6th Ave,CA,San-Francisco,94118,2100000.0,5.0,3.0,2750.0,9,Yes,1907,28 days,Multi-Family (2-4 Unit),Edwardian,San Francisco,28.0
+1731 26th Ave,CA,San-Francisco,94122,1275000.0,2.0,1.5,1265.0,9,Yes,1936,4 days,Single Family Residential,"Mediterranean, Spanish",San Francisco,4.0
+2170 - 2172 Bay St,CA,San-Francisco,94123,2185000.0,4.0,2.0,2665.0,6,Yes,1925,6 days,Multi-Family (2-4 Unit),Marina,San Francisco,6.0
+10 Wilder St,CA,San-Francisco,94131,975000.0,2.0,1.0,800.0,7,No,1914,11 days,Single Family Residential,Contemporary,San Francisco,11.0
+2245 Fulton St,CA,San-Francisco,94117,1695000.0,3.0,1.5,2058.0,8,Yes,1911,11 days,Condo,Edwardian,San Francisco,11.0
+3975 Clay St,CA,San-Francisco,94118,2695000.0,5.0,2.0,2509.0,8,No,1911,11 days,Condo,Contemporary,San Francisco,11.0
+1268 Dolores St,CA,San-Francisco,94110,1499000.0,2.0,2.0,1267.0,7,Yes,2012,13 days,Condo,Contemporary,SAN FRANCISCO,13.0
+403 Main St Unit 116N,CA,San-Francisco,94105,799000.0,1.0,1.0,890.0,5,Yes,1997,14 days,Condo,Art Deco,SAN FRANCISCO,14.0
+65 Dunsmuir St,CA,San-Francisco,94134,1050000.0,3.0,1.0,1300.0,6,Yes,1935,12 days,Single Family Residential,Contemporary,PORTOLA,12.0
+321 7th Ave,CA,San-Francisco,94118,1695000.0,4.0,3.0,1858.0,8,No,1910,24 hours,Condo,Contemporary,San Francisco,1.0
+401 Harrison St Unit 18F,CA,San-Francisco,94105,1245000.0,1.0,1.0,830.0,5,No,2014,10 days,Condo,Contemporary,San Francisco,10.0
+1045 Mason St #401,CA,San-Francisco,94108,2250000.0,3.0,2.5,2391.0,9,No,1993,12 days,Condo,Contemporary,San Francisco,12.0
+730 Florida St #21,CA,San-Francisco,94110,1525000.0,2.0,2.5,1571.0,7,Yes,2001,12 days,Condo,Contemporary,San Francisco,12.0
+1300 22nd St #215,CA,San-Francisco,94107,1225000.0,2.0,2.0,959.0,5,Yes,2016,6 days,Condo,Contemporary,San Francisco,6.0
+2280 Bay St,CA,San-Francisco,94123,4500000.0,5.0,3.5,3170.0,6,No,1936,25 hours,Single Family Residential,"Contemporary, French",San Francisco,1.0416666666666667
+159 Monticello St,CA,San-Francisco,94132,1325000.0,3.0,1.5,1605.0,9,Yes,1947,4 days,Single Family Residential,Contemporary,San Francisco,4.0
+221 Clipper St,CA,San-Francisco,94114,2450000.0,3.0,2.0,2254.0,9,Yes,1900,5 days,Single Family Residential,Victorian,San Francisco,5.0
+650 Delancey St #204,CA,San-Francisco,94107,1598000.0,2.0,2.0,1577.0,5,No,1996,8 days,Condo,Contemporary,San Francisco,8.0
+1029 Dolores St,CA,San-Francisco,94110,1595000.0,3.0,1.5,1367.0,7,Yes,1875,8 days,Condo,Contemporary,San Francisco,8.0
+10 Heather Ave,CA,San-Francisco,94118,1995000.0,3.0,2.0,2038.0,8,Yes,1954,8 days,Condo,Contemporary,San Francisco,8.0
+2841 Larkin St,CA,San-Francisco,94109,3099900.0,4.0,2.5,2630.0,9,Yes,1925,28 days,Single Family Residential,Contemporary,San Francisco,28.0
+37 Saturn St,CA,San-Francisco,94114,1195000.0,2.0,1.0,1100.0,7,No,1900,10 days,Single Family Residential,Contemporary,San Francisco,10.0
+159 Bonview St,CA,San-Francisco,94110,2949000.0,3.0,2.0,2390.0,4,Yes,1912,3 days,Single Family Residential,Contemporary,San Francisco,3.0
+708 Long Bridge St #108,CA,San-Francisco,94158,1580000.0,2.0,2.0,1432.0,5,Yes,2016,22 hours,Condo,Contemporary,SAN FRANCISCO,0.9166666666666666
+45 5th Ave,CA,San-Francisco,94118,6500000.0,6.0,3.5,4355.0,8,No,1905,8 days,Single Family Residential,Contemporary,San Francisco,8.0
+115 Spruce St,CA,San-Francisco,94118,6000000.0,4.0,3.5,3865.0,8,Yes,1922,29 days,Single Family Residential,Traditional,San Francisco,29.0
+140 Pennsylvania Ave #202,CA,San-Francisco,94107,1099000.0,2.0,2.0,1078.0,5,No,2017,5 days,Condo,Contemporary,San Francisco,5.0
+201 Folsom St Unit 35D,CA,San-Francisco,94105,1318000.0,1.0,1.0,972.0,5,Yes,2016,6 days,Condo,Contemporary,San Francisco,6.0
+2049 15th Ave,CA,San-Francisco,94116,3299950.0,4.0,4.5,2741.0,9,Yes,1939,5 days,Single Family Home,Contemporary,SAN FRANCISCO,5.0
+1778 10th Ave,CA,San-Francisco,94122,1495000.0,2.0,2.0,1425.0,9,Yes,1937,3 days,Single Family Residential,Spanish,San Francisco,3.0
+387 Lakeshore Dr,CA,San-Francisco,94132,1199900.0,3.0,2.0,1410.0,9,Yes,1952,12 days,Single Family Residential,Contemporary,San Francisco,12.0
+199 New Montgomery St #910,CA,San-Francisco,94105,1025000.0,2.0,2.0,1162.0,5,Yes,2004,4 days,Condo,Modern/High Tech,San Francisco,4.0
+3133 Folsom St Unit A,CA,San-Francisco,94110,799000.0,2.0,1.0,1023.0,4,No,1909,29 days,Condo (Tenancy in Common),Edwardian,San Francisco,29.0
+2046 48th Ave,CA,San-Francisco,94116,2195000.0,3.0,2.5,2030.0,8,Yes,1945,5 days,Single Family Residential,Contemporary,San Francisco,5.0
+523 Pierce St,CA,San-Francisco,94117,1675000.0,3.0,1.5,1701.0,8,Yes,1924,11 days,Condo,Marina,San Francisco,11.0
+68 Harriet St #10,CA,San-Francisco,94103,760000.0,1.0,1.5,1005.0,5,Yes,2003,9 days,Condo,"Modern/High Tech, Contemporary",San Francisco,9.0
+928 Diamond St,CA,San-Francisco,94114,3895000.0,5.0,4.0,3872.0,9,Yes,1900,4 days,Single Family Residential,"Contemporary, Modern/High Tech, Traditional",San Francisco,4.0
+381 Duncan St,CA,San-Francisco,94131,1498000.0,5.0,4.0,2071.0,9,No,1884,29 days,Multi-Family (2-4 Unit),Victorian,San Francisco,29.0
+1243 25th Ave,CA,San-Francisco,94122,1298000.0,3.0,1.5,1750.0,8,Yes,1914,4 days,Single Family Home,Traditional,SAN FRANCISCO,4.0
+15 Rico Way #2,CA,San-Francisco,94123,899888.0,1.0,1.0,840.0,7,Yes,1929,13 days,Condo (Tenancy in Common),Mediterranean,SAN FRANCISCO,13.0
+747 Peru Ave,CA,San-Francisco,94112,649000.0,1.0,1.0,751.0,6,No,1912,4 days,Single Family Residential,Cottage,San Francisco,4.0
+149 Goethe St,CA,San-Francisco,94112,899998.0,3.0,1.0,1416.0,4,Yes,1917,13 days,Single Family Residential,"Traditional, Vintage",San Francisco,13.0
+2707 Bryant St,CA,San-Francisco,94110,700000.0,2.0,1.0,3024.0,4,Yes,1923,29 hours,Condo,Contemporary,INNER MISSION,1.2083333333333333
+2627 18th Ave,CA,San-Francisco,94116,1989000.0,3.0,3.0,1838.0,7,Yes,1935,4 days,Single Family Residential,Mediterranean,West Portal,4.0
+1830 Golden Gate Ave,CA,San-Francisco,94115,995000.0,3.0,1.5,1235.0,8,No,1911,4 days,Condo (Tenancy in Common),Contemporary,San Francisco,4.0
+252 9th St #403,CA,San-Francisco,94103,699000.0,2.0,1.0,715.0,5,No,2015,5 days,Condo,Contemporary,San Francisco,5.0
+1 Steuart Ln #705,CA,San-Francisco,94105,1559000.0,1.0,1.0,863.0,5,Yes,2021,10 days,Condo,"Contemporary, Modern/High Tech",San Francisco,10.0
+520 Judson Ave,CA,San-Francisco,94112,1095000.0,2.0,1.0,1060.0,8,Yes,1922,4 days,Single Family Residential,Arts &amp; Crafts,San Francisco,4.0
+1222 Funston Ave,CA,San-Francisco,94122,1588000.0,2.0,1.0,750.0,8,No,1908,7 days,Single Family Residential,Contemporary,San Francisco,7.0
+815 Tennessee St #202,CA,San-Francisco,94107,1088000.0,2.0,2.0,1102.0,5,Yes,2018,4 days,Condo,Contemporary,SAN FRANCISCO,4.0
+182 Alpine Ter,CA,San-Francisco,94117,1795000.0,3.0,3.0,2080.0,7,No,1908,10 days,Single Family Residential,Contemporary,San Francisco,10.0
+2382 30th Ave,CA,San-Francisco,94116,998000.0,2.0,1.0,1049.0,7,Yes,1955,5 days,Single Family Residential,Mid-Century,San Francisco,5.0
+527 Faxon Ave,CA,San-Francisco,94112,1050000.0,2.0,2.0,1908.0,8,No,1900,8 days,Single Family Home,Contemporary,SAN FRANCISCO,8.0
+2600 Green St,CA,San-Francisco,94123,8500000.0,5.0,6.0,6865.0,6,No,1916,12 days,Single Family Residential,Contemporary,San Francisco,12.0
+1001 California St #3,CA,San-Francisco,94108,7700000.0,2.0,2.5,3474.0,6,No,1914,18 hours,Condo,French,San Francisco,0.75
+66 Elsie St,CA,San-Francisco,94110,3898000.0,5.0,4.0,2810.0,4,Yes,1974,11 days,Single Family Residential,Modern/High Tech,San Francisco,11.0
+400 Gates St,CA,San-Francisco,94110,1490000.0,2.0,2.5,1103.0,3,Yes,1907,25 hours,Single Family Residential,Contemporary,San Francisco,1.0416666666666667
+2562 35th Ave,CA,San-Francisco,94116,1250000.0,3.0,2.0,1790.0,7,Yes,1939,4 days,Single Family Residential,Contemporary,San Francisco,4.0
+122 Milton St,CA,San-Francisco,94112,1595000.0,3.0,2.5,1880.0,7,Yes,1915,5 days,Single Family Residential,Contemporary,San Francisco,5.0
+3246 25th St,CA,San-Francisco,94110,2950000.0,7.0,4.0,4652.0,4,Yes,1891,6 days,Multi-Family (2-4 Unit),Other,San Francisco,6.0
+11 Gilroy St,CA,San-Francisco,94124,949000.0,4.0,2.5,1546.0,6,Yes,1925,3 days,Single Family Residential,Traditional,San Francisco,3.0
+140 Pennsylvania Ave #203,CA,San-Francisco,94107,799000.0,1.0,1.0,761.0,5,No,2017,5 days,Condo,Contemporary,San Francisco,5.0
+1 Steuart Ln #309,CA,San-Francisco,94105,1041250.0,1.0,1.0,880.0,5,Yes,2021,6 days,Condo,Contemporary,SFO - San Francisco,6.0
+146 11th Ave,CA,San-Francisco,94118,2995000.0,3.0,2.0,1800.0,8,Yes,1910,13 days,Single Family Residential,Traditional,San Francisco,13.0
+39034 Guardino Dr #107,CA,Fremont,94538,475000.0,1.0,1.0,693.0,7,Yes,1990,4 days,Condo,Contemporary,FREMONT,4.0
+1910 Barrymore Cmn Unit G,CA,Fremont,94538,599000.0,2.0,1.0,882.0,7,Yes,1981,11 days,Condo,Traditional,FREMONT,11.0
+47112 Warm Springs Blvd #320,CA,Fremont,94539,720000.0,2.0,2.0,1051.0,9,Yes,1982,17 days,Condo,Contemporary,REDWOOD SQUARE,17.0
+4531 Portola Dr,CA,Fremont,94536,1499666.0,3.0,2.0,1580.0,7,Yes,1953,33 days,Single Family Residential,Craftsman,CABRILLO,33.0
+345 Torrano Cmn,CA,Fremont,94536,799888.0,2.0,1.0,1016.0,7,Yes,1975,3 days,Townhouse,Contemporary,NILES THE TREES,3.0
+41247 Apricot Ln,CA,Fremont,94539,1999888.0,4.0,2.0,1698.0,9,Yes,1960,7 days,Single Family Residential,Contemporary,FREMONT,7.0
+45378 Tom Blalock St #107,CA,Fremont,94539,1139000.0,2.0,2.5,1608.0,7,Yes,2021,110 days,Condo,Contemporary,FREMONT,110.0
+2358 Velocity Cmn #310,CA,Fremont,94538,1748000.0,3.0,3.5,2600.0,8,Yes,2021,61 days,Condo,Contemporary,WARM SPRINGS,61.0
+4046 Abbey Ter #113,CA,Fremont,94536,598500.0,2.0,2.0,823.0,7,No,1986,3 days,Condo,Contemporary,CENTRAL PARK,3.0
+35181 Mount Whitney Ter,CA,Fremont,94536,1799000.0,4.0,3.0,2196.0,7,Yes,2000,12 days,Single Family Residential,Contemporary,NILES AREA,12.0
+3698 Vision Cmn Unit 302,CA,Fremont,94538,983880.0,3.0,2.0,1495.0,7,Yes,2023,20 days,Multi-Family (2-4 Unit),Contemporary,Innovation - Chroma,20.0
+45258 Tom Blalock St #206,CA,Fremont,94539,1185000.0,2.0,2.5,1786.0,7,Yes,2021,63 days,Condo,Modern/High Tech,WARM SPRINGS,63.0
+39951 Fremont Blvd #124,CA,Fremont,94538,649900.0,2.0,2.0,1146.0,7,Yes,1987,25 days,Condo,Contemporary,PARK REGENCY,25.0
+38623 Cherry Ln #224,CA,Fremont,94536,748000.0,3.0,2.0,1101.0,7,No,1974,11 days,Condo,Contemporary,FREMONT,11.0
+3218 Winding Vista Cmn,CA,Fremont,94539,3550000.0,4.0,3.5,3442.0,9,Yes,1999,4 days,Single Family Residential,Mediterranean,PONDEROSA HTS,4.0
+92 Catania Cmn,CA,Fremont,94536,1249888.0,3.0,2.5,1600.0,7,Yes,2018,5 days,Townhouse,Contemporary,FREMONT,5.0
+39224 Guardino Dr #118,CA,Fremont,94538,699995.0,2.0,2.0,1077.0,7,Yes,1990,81 days,Condo,Contemporary,ADOBE HILLS,81.0
+44908 Wisdom Rd #201,CA,Fremont,94538,1095929.0,3.0,2.0,1502.0,8,Yes,2023,28 days,Multi-Family (2-4 Unit),Contemporary,Innovation - Lumiere,28.0
+1748 Kilowatt Way #302,CA,Fremont,94539,1585000.0,3.0,2.5,1850.0,7,Yes,2021,110 days,Condo,Contemporary,FREMONT,110.0
+41622 E Belford Ter,CA,Fremont,94538,1296880.0,4.0,3.0,1569.0,9,Yes,2023,13 days,Condo,Contemporary,Not Listed,13.0
+575 Ginkgo Ter,CA,Fremont,94539,1599999.0,4.0,3.5,1911.0,9,Yes,2009,11 days,Single Family Residential,Contemporary,WARM SPRINGS,11.0
+33956 Horseshoe Loop,CA,Fremont,94555,1890000.0,4.0,3.0,1973.0,9,Yes,2016,5 days,Single Family Residential,Contemporary,ARDENWOOD AREA,5.0
+4456 Gina St,CA,Fremont,94538,1088888.0,3.0,1.0,950.0,7,Yes,1955,11 days,Single Family Home,Contemporary,FREMONT,11.0
+44819 S Grimmer Blvd #1000,CA,Fremont,94538,1250000.0,3.0,3.0,1776.0,8,Yes,2019,35 days,Single Family Home,Contemporary,FREMONT,35.0
+3425 Inspiration Way #303,CA,Fremont,94538,1218733.0,3.0,2.0,1771.0,8,Yes,2023,40 days,Condo,Contemporary,WARM SPRINGS,40.0
+3468 Inspiration Way #203,CA,Fremont,94538,1188180.0,2.0,2.0,1462.0,8,Yes,2023,40 days,Condo,Contemporary,WARM SPRINGS,40.0
+1477 Tolteca Dr,CA,Fremont,94539,2680000.0,4.0,3.0,2898.0,9,Yes,1978,5 days,Single Family Home,Contemporary,FREMONT,5.0
+307 Kauai Cir #307,CA,Fremont,94587,300000.0,2.0,2.0,1406.0,7,No,2000,5 days,Double-Wide Mobile Home,Contemporary,UNION CITY,5.0
+36635 Montecito Dr,CA,Fremont,94536,1750000.0,4.0,2.0,2052.0,7,Yes,1967,4 days,Single Family Residential,Traditional,RANCHO ARROYO,4.0
+37014 Dutra Way,CA,Fremont,94536,1299900.0,4.0,2.0,1796.0,7,Yes,1951,6 days,Single Family Residential,Contemporary,FREMONT,6.0
+36311 San Pedro,CA,Fremont,94536,2880000.0,7.0,6.0,4800.0,7,Yes,1986,452 days,Single Family Residential,Contemporary,CABRILLO AREA,452.0
+38396 Redwood Ter,CA,Fremont,94536,949990.0,2.0,2.5,1400.0,8,Yes,1986,34 days,Condo,Contemporary,PARKMONT,34.0
+39993 Fremont Blvd #103,CA,Fremont,94538,495000.0,1.0,1.0,922.0,7,Yes,1987,24 days,Condo,Contemporary,FREMONT,24.0
+3487 Pennsylvania Cmn,CA,Fremont,94536,695000.0,2.0,2.0,944.0,7,Yes,1981,6 days,Condo,Contemporary,FREMONT,6.0
+3698 Vision Cmn Unit 315,CA,Fremont,94538,807880.0,2.0,2.0,1014.0,7,Yes,2023,28 days,Multi-Family (2-4 Unit),Contemporary,Innovation - Chroma,28.0
+37748 Carriage Cir,CA,Fremont,94536,1295000.0,3.0,2.5,1546.0,7,Yes,1985,74 days,Single Family Residential,Contemporary,Fremont,74.0
+5533 Azalea Way,CA,Fremont,94560,1279980.0,4.0,3.5,2026.0,6,Yes,2016,4 days,Condo (Co-op),Contemporary,NEWARK,4.0
+37955 Camden St,CA,Fremont,94536,1100000.0,3.0,2.0,1530.0,8,Yes,1965,3 days,Single Family Home,Contemporary,FREMONT,3.0
+3686 Gainsborough Ter,CA,Fremont,94555,849999.0,3.0,1.5,1166.0,9,No,1970,40 days,Townhouse,Contemporary,NORTH GATE,40.0
+3248 Bruce Dr,CA,Fremont,94539,2899000.0,4.0,4.0,2704.0,9,Yes,1955,24 days,Single Family Residential,Contemporary,MISSION,24.0
+392 Farley Cmn,CA,Fremont,94539,1875000.0,4.0,3.5,2247.0,9,Yes,2014,60 days,Single Family Residential,Contemporary,Not Listed,60.0
+37336 Spruce Ter,CA,Fremont,94536,425000.0,1.0,1.0,593.0,9,No,1986,5 days,Condo,Contemporary,BAYWOOD,5.0
+3841 Milton Ter,CA,Fremont,94555,640000.0,2.0,2.0,963.0,9,No,1986,4 days,Condo,Contemporary,NORTHGATE,4.0
+3230 Dollinger Ct,CA,Fremont,94536,1599000.0,4.0,2.0,1676.0,8,Yes,1965,22 days,Single Family Residential,Ranch,PARKMONT VILLAGE,22.0
+1259 Filton Ct,CA,Fremont,94536,1199999.0,3.0,1.0,1014.0,7,Yes,1959,166 days,Single Family Home,Contemporary,FREMONT,166.0
+36171 San Pedro Dr,CA,Fremont,94536,1299000.0,3.0,2.0,1450.0,7,Yes,1956,9 days,Single Family Residential,Contemporary,CABRILLO,9.0
+37823 Essanay Pl,CA,Fremont,94536,950000.0,3.0,2.5,1236.0,7,Yes,1981,5 days,Single Family Residential,Contemporary,Fremont,5.0
+33193 Lake Garrison St,CA,Fremont,94555,1490000.0,4.0,2.0,1629.0,9,Yes,1969,15 days,Single Family Residential,Contemporary,FREMONT,15.0
+1585 Vinehill Cir,CA,Fremont,94539,3999000.0,5.0,5.5,4791.0,9,Yes,1996,32 days,Single Family Residential,Contemporary,VINEYARD HEIGHTS,32.0
+42111 Osgood Rd #412,CA,Fremont,94539,696714.0,2.0,2.0,906.0,9,Yes,2022,45 days,Condo,Contemporary,FREMONT,45.0
+45967 Hidden Valley Ter,CA,Fremont,94539,3999000.0,4.0,2.5,2820.0,9,Yes,1996,55 days,Single Family Home,Spanish,FREMONT,55.0
+3911 Wildflower Cmn,CA,Fremont,94538,949000.0,3.0,2.0,1300.0,9,Yes,1987,46 days,Townhouse,Contemporary,Fremont,46.0
+2250 Kilowatt Way #419,CA,Fremont,94539,1940908.0,3.0,3.0,3024.0,7,Yes,2024,1 day,Condo,Contemporary,WARM SPRINGS,1.0
+2250 Kilowatt Way #312,CA,Fremont,94539,1383597.0,2.0,2.0,1866.0,7,Yes,2024,67 days,Condo,Contemporary,WARM SPRINGS,67.0
+3677 Integration Cmn,CA,Fremont,94538,1343535.0,3.0,3.5,1891.0,8,Yes,2023,55 days,Townhouse,Contemporary,WARM SPRINGS,55.0
+3617 Integration Cmn,CA,Fremont,94538,1336535.0,3.0,3.5,1891.0,8,Yes,2023,55 days,Townhouse,Contemporary,WARM SPRINGS,55.0
+5070 Cobb Ct,CA,Fremont,94538,1275000.0,3.0,2.0,1204.0,7,Yes,1962,6 days,Single Family Home,Contemporary,FREMONT,6.0
+43815 Paso Pino Cmn,CA,Fremont,94539,1249000.0,3.0,2.0,1431.0,9,Yes,2011,42 days,Condo,Contemporary,MISSION DISTRICT,42.0
+75 Harvey Ter,CA,Fremont,94536,1129888.0,3.0,2.5,1663.0,7,Yes,1984,57 days,Townhouse,Contemporary,NILES AREA,57.0
+46950 Zapotec Dr,CA,Fremont,94539,3498000.0,4.0,3.0,4512.0,9,Yes,1986,122 days,Single Family Home,Contemporary,FREMONT,122.0
+60 Wilson Way #91,CA,Fremont,95035,449900.0,3.0,2.0,1220.0,9,No,2000,158 days,Double-Wide Mobile Home,Contemporary,MILPITAS,158.0
+2250 Kilowatt Way #212,CA,Fremont,94539,1617421.0,3.0,3.0,2422.0,7,Yes,2024,67 days,Condo,Contemporary,WARM SPRINGS,67.0
+45128 Warm Springs Blvd #311,CA,Fremont,94539,1150000.0,3.0,2.0,1530.0,7,Yes,2020,54 days,Condo,Contemporary,WARM SPRINGS,54.0
+2250 Kilowatt Way #308,CA,Fremont,94539,1249619.0,2.0,2.0,1830.0,7,Yes,2024,53 days,Condo,Contemporary,WARM SPRINGS,53.0
+34116 Pavia Ter,CA,Fremont,94555,1180000.0,3.0,3.5,1387.0,9,Yes,2012,3 days,Condo,Contemporary,ARDENWOOD AREA,3.0
+3698 Vision Cmn Unit 409,CA,Fremont,94538,539880.0,1.0,1.0,690.0,7,Yes,2023,17 hours,Multi-Family (2-4 Unit),Contemporary,Innovation - Chroma,0.7083333333333334
+5510 Cosmos Cmn Unit C,CA,Fremont,94538,699000.0,2.0,2.0,850.0,7,Yes,1994,18 days,Townhouse,Contemporary,STEVENSON AREA,18.0
+48373 Conifer,CA,Fremont,94539,1799800.0,4.0,3.5,1919.0,9,Yes,1963,10 days,Single Family Residential,Contemporary,WARM SPRINGS,10.0
+37435 Church Ave,CA,Fremont,94536,789950.0,2.0,1.0,804.0,7,Yes,1948,6 days,Single Family Residential,Ranch,CENTERVILLE,6.0
+285 Junipero Cmn,CA,Fremont,94536,798000.0,2.0,1.5,1140.0,7,Yes,1974,5 days,Townhouse,Contemporary,NILES AREA,5.0
+34109 Susa Ter,CA,Fremont,94555,1550000.0,4.0,3.5,1969.0,9,Yes,2013,12 days,Townhouse,Contemporary,FREMONT,12.0
+3468 Inspiration Way #303,CA,Fremont,94538,1122164.0,2.0,2.0,1335.0,8,Yes,2023,4 days,Condo,Contemporary,WARM SPRINGS,4.0
+4120 Woodcrest Dr,CA,Fremont,94538,1399000.0,3.0,2.0,1120.0,9,Yes,1960,4 days,Single Family Home,Contemporary,FREMONT,4.0
+4159 Bullard St,CA,Fremont,94538,999998.0,3.0,1.0,950.0,7,Yes,1954,114 days,Single Family Home,Contemporary,FREMONT,114.0
+4050 Margery Dr,CA,Fremont,94538,1399888.0,3.0,2.0,1600.0,7,Yes,1958,11 days,Single Family Residential,Contemporary,Fremont,11.0
+36778 Oak St,CA,Fremont,94536,1499888.0,3.0,2.0,1610.0,9,Yes,1961,3 days,Single Family Residential,Ranch,FAIR OAKS,3.0
+5614 Hughes Pl,CA,Fremont,94538,1248900.0,3.0,2.0,1206.0,9,Yes,1966,5 days,Single Family Residential,Ranch,28 PALMS,5.0
+4132 Vincente St,CA,Fremont,94536,1450000.0,3.0,2.0,1232.0,9,Yes,1967,8 days,Single Family Residential,Contemporary,Fremont,8.0
+37373 Viceroy Cmn,CA,Fremont,94536,1639000.0,4.0,3.5,2191.0,7,Yes,2023,12 days,Townhouse,"Contemporary, Craftsman",Not Listed,12.0
+1851 Napa Ct,CA,Fremont,94539,4288800.0,6.0,4.0,5359.0,9,Yes,1988,25 days,Single Family Home,Custom,FREMONT,25.0
+3245 Internet Cmn #1002,CA,Fremont,94538,1539302.0,4.0,3.5,2313.0,8,Yes,2023,56 days,Multi-Family (2-4 Unit),Contemporary,Innovation - Aspect,56.0
+38555 Overacker Ave,CA,Fremont,94536,13499900.0,4.0,2.0,2533.0,7,Yes,1873,139 days,Single Family Residential,Contemporary,CHERRY GUARDINO,139.0
+39078 Guardino Dr #103,CA,Fremont,94538,459000.0,1.0,1.0,693.0,7,Yes,1990,5 days,Condo,Contemporary,ADOBE HILLS,5.0
+37903 Vallejo St,CA,Fremont,94536,1150000.0,2.0,1.5,891.0,7,Yes,1981,27 days,Townhouse,Contemporary,FREMONT,27.0
+42111 Osgood Rd #521,CA,Fremont,94539,796619.0,1.0,1.0,1067.0,9,Yes,2022,51 days,Condo,Contemporary,FREMONT,51.0
+2250 Kilowatt Way #416,CA,Fremont,94539,2034440.0,3.0,3.0,2860.0,7,Yes,2024,2 days,Condo,Contemporary,WARM SPRINGS,2.0
+5369 Keystone Dr,CA,Fremont,94536,1899950.0,3.0,2.0,1671.0,7,Yes,1956,47 days,Single Family Residential,Ranch,GLENMOOR,47.0
+36720 Charles St,CA,Fremont,94560,1038000.0,3.0,2.0,1190.0,7,Yes,1954,46 days,Single Family Home,Contemporary,NEWARK,46.0
+42111 Osgood Rd #427,CA,Fremont,94539,820752.0,2.0,2.0,1148.0,9,Yes,2022,83 days,Condo,Contemporary,FREMONT,83.0
+3698 Vision Cmn Unit 417,CA,Fremont,94538,834880.0,2.0,2.0,1049.0,7,Yes,2023,18 hours,Multi-Family (2-4 Unit),Contemporary,Innovation - Chroma,0.75
+3374 Wolcott Cmn,CA,Fremont,94538,785000.0,2.0,2.0,1280.0,7,No,1983,3 days,Townhouse,Contemporary,FREMONT,3.0
+4449 Inyo Ct,CA,Fremont,94538,1550000.0,4.0,2.0,2092.0,7,Yes,1961,6 days,Single Family Residential,Contemporary,Fremont,6.0
+3827 Heart Cmn,CA,Fremont,94538,975000.0,2.0,2.5,1290.0,7,Yes,2019,39 days,Condo,Modern/High Tech,LOCALE @ STATE STREET,39.0
+3551 Gilman Cmn,CA,Fremont,94538,1520000.0,3.0,2.5,1935.0,7,Yes,1999,23 days,Townhouse,Contemporary,LIBERTY COMMONS,23.0
+661 Monticello Ter,CA,Fremont,94539,8999000.0,7.0,8.5,14042.0,9,Yes,2004,179 days,Single Family Home,Custom,FREMONT,179.0
+191 W Hunter Ln,CA,Fremont,94539,2699000.0,4.0,2.5,2539.0,9,Yes,1989,13 days,Single Family Residential,Contemporary,MISSION,13.0
+420 Sequim Cmn,CA,Fremont,94539,700000.0,2.0,2.0,897.0,9,No,1985,27 days,Condo,Contemporary,Fremont,27.0
+3425 Inspiration Way,CA,Fremont,94538,1133733.0,3.0,2.0,1771.0,8,Yes,2023,5 days,Condo,Contemporary,Victoria Station at Metro West,5.0
+332 Grafton Ter,CA,Fremont,94539,1850000.0,4.0,3.5,2106.0,9,Yes,2014,7 days,Single Family Residential,Contemporary,WARM SPRINGS,7.0
+4841 Stevenson Blvd,CA,Fremont,94538,1249999.0,3.0,2.0,1148.0,9,Yes,1959,10 days,Single Family Residential,Ranch,28 PALMS,10.0
+42111 Osgood Rd #331,CA,Fremont,94539,747890.0,2.0,2.0,1067.0,9,Yes,2022,74 days,Condo,Contemporary,FREMONT,74.0
+38860 Cherry Ln,CA,Fremont,94536,2748888.0,5.0,2.0,2215.0,7,Yes,1929,131 days,Single Family Residential,Craftsman,ORCHARD,131.0
+42111 Osgood Rd #428,CA,Fremont,94539,1100259.0,3.0,2.0,1602.0,9,Yes,2022,51 days,Condo,Contemporary,FREMONT,51.0
+2348 Kinetic Cmn #103,CA,Fremont,94539,1179000.0,2.0,2.0,1725.0,8,Yes,2020,77 days,Condo,Modern/High Tech,WARM SPRINGS,77.0
+3698 Vision Cmn Unit 314,CA,Fremont,94538,594880.0,1.0,1.0,770.0,7,Yes,2023,17 hours,Multi-Family (2-4 Unit),Contemporary,Innovation - Chroma,0.7083333333333334
+5305 Tacoma Cmn,CA,Fremont,94555,799000.0,2.0,2.0,1100.0,9,Yes,1989,32 days,Condo,Contemporary,ARDENWOOD FREMONT,32.0
+3300 Wolcott #104,CA,Fremont,94538,649999.0,2.0,2.0,1013.0,7,No,1983,20 days,Condo,Contemporary,FREMONT,20.0
+41275 Kathlean St,CA,Fremont,94538,1575000.0,3.0,2.0,1318.0,9,Yes,1960,28 hours,Single Family Residential,Craftsman,SOUTH SUNDALE,1.1666666666666667
+3698 Vision Cmn Unit 204,CA,Fremont,94538,659880.0,1.0,1.0,850.0,7,Yes,2023,17 hours,Multi-Family (2-4 Unit),Contemporary,Innovation - Chroma,0.7083333333333334
+969 Avila Terraza,CA,Fremont,94538,910000.0,2.0,2.0,1102.0,7,Yes,2001,13 days,Condo,Contemporary,ANDALUSIA,13.0
+3685 Integration Cmn,CA,Fremont,94538,1329535.0,3.0,3.5,1891.0,8,Yes,2023,60 days,Townhouse,Contemporary,WARM SPRINGS,60.0
+39993 Fremont Blvd #313,CA,Fremont,94538,714950.0,2.0,2.0,1465.0,7,Yes,1987,57 days,Condo,Contemporary,CENTRAL FREMONT,57.0
+39029 Guardino Dr #217,CA,Fremont,94538,429000.0,1.0,1.0,693.0,7,Yes,1987,103 days,Condo,Contemporary,FREMONT,103.0
+44164 Glendora Dr,CA,Fremont,94539,2779000.0,4.0,3.0,2254.0,9,Yes,1988,25 days,Single Family Home,Contemporary,FREMONT,25.0
+44573 Japala Pl,CA,Fremont,94539,1888000.0,4.0,2.5,1617.0,9,Yes,1978,53 days,Single Family Residential,Contemporary,WEIBEL,53.0
+60 Wison Way #158,CA,Fremont,95035,380000.0,3.0,2.0,1028.0,9,No,2006,10 days,Double-Wide Mobile Home,Contemporary,MILPITAS,10.0
+38848 Cherry Glen Cmn,CA,Fremont,94536,899998.0,2.0,2.0,1168.0,7,Yes,1987,28 days,Condo,Contemporary,ORCHARD,28.0
+4106 Coriander Ter,CA,Fremont,94538,1650000.0,4.0,3.5,2140.0,9,Yes,2009,53 days,Single Family Home,Contemporary,FREMONT,53.0
+39199 Walnut Ter #26,CA,Fremont,94536,799950.0,2.0,2.0,1270.0,7,Yes,1984,10 days,Condo,Contemporary,Guardino,10.0
+43177 Continental Dr,CA,Fremont,94538,1275000.0,3.0,2.0,1126.0,9,Yes,1955,10 days,Single Family Residential,Ranch,IRVINGTON AREA,10.0
+45168 Tom Blalock St #106,CA,Fremont,94539,1350000.0,2.0,2.0,1925.0,7,Yes,2020,60 days,Condo,Contemporary,ACACIA,60.0
+4549 Faulkner Ct,CA,Fremont,94536,1850000.0,4.0,3.5,2139.0,7,Yes,1965,6 days,Single Family Residential,Ranch,GLENMOOR,6.0
+3184 Vittoria Loop,CA,Dublin,94568,1469999.0,3.0,3.0,2368.0,9,Yes,2015,26 days,Single Family Residential,Mediterranean,DUBLIN RANCH,26.0
+7612 Red Hills Ct,CA,Dublin,94568,1968000.0,4.0,3.5,3604.0,9,Yes,2010,7 days,Single Family Residential,Mediterranean,SCHAEFER RANCH,7.0
+3923 Meridian St,CA,Dublin,94568,1198000.0,4.0,3.5,1879.0,9,Yes,2019,11 days,Condo,Contemporary,DUBLIN,11.0
+7564 Burnham Way,CA,Dublin,94568,1249000.0,4.0,2.0,1305.0,9,Yes,1964,5 days,Single Family Residential,Traditional,VILLAGE,5.0
+8326 Davona,CA,Dublin,94568,1235000.0,3.0,2.0,1424.0,9,Yes,1964,16 hours,Single Family Residential,Ranch,VILLAGE,0.6666666666666666
+6195 Diamond Way,CA,Dublin,94568,1715400.0,6.0,5.0,3300.0,9,Yes,2023,4 days,Single Family Residential,Contemporary,BOULEVARD,4.0
+7638 Canterbury Ct,CA,Dublin,94568,1275000.0,4.0,2.0,1475.0,9,Yes,1961,7 days,Single Family Residence,Contemporary,Dublin,7.0
+6026 Bullion Ct,CA,Dublin,94568,1325753.0,3.0,3.5,2106.0,9,Yes,2023,1 day,Single Family Residential,Contemporary,Boulevard - Venice,1.0
+5484 Melissa Ln,CA,Dublin,94568,1300000.0,4.0,3.0,2745.0,9,Yes,2022,39 days,Townhouse,Contemporary,BOULEVARD,39.0
+3459 Finnian Way,CA,Dublin,94568,850000.0,3.0,2.5,1897.0,9,Yes,2006,8 days,Condo,Contemporary,Not Listed,8.0
+3784 Dunmore Ln,CA,Dublin,94568,898900.0,2.0,2.5,1634.0,9,Yes,2004,13 days,Townhouse,Contemporary,DUBLIN,13.0
+3360 Maguire Way #437,CA,Dublin,94568,390457.0,1.0,1.0,840.0,9,Yes,2007,16 days,Condo,Contemporary,DUBLIN,16.0
+7437 Las Palmas Way,CA,Dublin,94568,2178000.0,5.0,3.0,2941.0,9,Yes,1989,44 days,Single Family Residential,Contemporary,HACIENDA HEIGHTS,44.0
+3275 Dublin Blvd #410,CA,Dublin,94568,442000.0,1.0,1.0,840.0,9,Yes,2004,3 days,Condo,Contemporary,THE TERRACES,3.0
+9010 Craydon Cir,CA,Dublin,94583,483888.0,2.0,1.0,780.0,9,No,1963,31 days,Condo,Contemporary,SUNNY GLEN,31.0
+7210 Lembert Hills Dr,CA,Dublin,94568,2750000.0,4.0,4.5,3547.0,9,Yes,2021,5 days,Single Family Residential,Contemporary,DUBLIN RANCH,5.0
+7618 San Sabana Rd,CA,Dublin,94568,1329800.0,3.0,2.0,1367.0,9,Yes,1963,6 days,Single Family Residential,Ranch,WEST SIDE DUBLIN,6.0
+9008 Craydon Cir,CA,Dublin,94583,487500.0,2.0,1.0,780.0,9,No,1963,101 days,Townhouse,Ranch,SUNNY GLEN,101.0
+7793 Peppertree Rd,CA,Dublin,94568,1649000.0,4.0,3.0,2240.0,9,Yes,1964,4 days,Single Family Residential,Contemporary,DUBLIN,4.0
+7771 Bloomfield Ter,CA,Dublin,94568,2581189.0,4.0,4.5,3788.0,9,Yes,1999,34 days,Single Family Residential,Mediterranean,THE RIDGE,34.0
+6127 Amethyst St,CA,Dublin,94568,1724211.0,4.0,3.5,2589.0,9,Yes,2023,17 hours,Single Family Residential,MasterPlanned,Melrose Neighborhood at Boulevard,0.7083333333333334
+2400 Valentano Dr,CA,Dublin,94568,2100000.0,3.0,3.0,2475.0,9,Yes,2011,5 days,Single Family Residential,Mediterranean,POSITANO,5.0
+8046 Peppertree Rd,CA,Dublin,94568,1400000.0,4.0,2.0,1936.0,9,Yes,1968,10 days,Single Family Residential,Traditional,WEST SIDE DUBLIN,10.0
+11425 Winding Trail Ln,CA,Dublin,94568,1149900.0,3.0,2.5,1528.0,9,Yes,1988,5 days,Townhouse,Traditional,SILVERGATE,5.0
+6452 Rosebay Ct,CA,Dublin,94568,1099880.0,4.0,3.5,2254.0,9,Yes,2023,20 days,Multi-Family (2-4 Unit),Contemporary,Boulevard - Avalon,20.0
+8627 Beverly Ln,CA,Dublin,94568,999999.0,3.0,2.5,1240.0,9,Yes,1967,24 days,Condo,Contemporary,DUBLIN,24.0
+8034 Brittany Dr,CA,Dublin,94568,1674777.0,5.0,2.5,3100.0,9,Yes,1988,68 days,Single Family Residential,Traditional,HIGHLANDS,68.0
+6486 Rosebay Ct,CA,Dublin,94568,1099880.0,4.0,3.5,2254.0,9,Yes,2023,42 days,Multi-Family (2-4 Unit),Contemporary,Boulevard - Avalon,42.0
+5223 S Esprit Loop,CA,Dublin,94568,1250000.0,4.0,3.5,1848.0,9,Yes,2014,11 days,Townhouse,Contemporary,DUBLIN,11.0
+5698 El Dorado Ln,CA,Dublin,94568,1350000.0,4.0,3.5,2128.0,9,Yes,2017,40 days,Condo,Contemporary,BOULEVARD,40.0
+9538 Albert Dr,CA,Dublin,94568,2570000.0,4.0,3.0,3729.0,9,Yes,2014,46 days,Single Family Residential,Mediterranean,SCHAEFER RANCH,46.0
+5972 Lombard St,CA,Dublin,94568,1699888.0,5.0,4.0,2828.0,9,Yes,2019,27 days,Single Family Residential,Modern/High Tech,BOULEVARD,27.0
+11268 Champagne Ct,CA,Dublin,94568,2098000.0,4.0,3.0,2820.0,9,Yes,1990,11 days,Single Family Residential,Contemporary,BORDEAUX ESTATES,11.0
+6200 Sienna Ct,CA,Dublin,94568,1543880.0,4.0,4.0,2466.0,9,Yes,2023,7 days,Single Family Residential,Contemporary,Boulevard - Lombard,7.0
+4585 Brannigan St,CA,Dublin,94568,1370000.0,4.0,2.5,2250.0,9,Yes,2004,416 days,Condo,Colonial,Dublin,416.0
+3518 Capoterra Way,CA,Dublin,94568,1480000.0,4.0,3.5,3012.0,9,Yes,2012,69 days,Townhouse,Contemporary,Dublin,69.0
+112 Norris Canyon Pl Unit B,CA,San-Ramon,94583,685000.0,2.0,1.0,1022.0,9,Yes,1983,26 days,Condo,Contemporary,THE FOOTHILLS,26.0
+3478 Cinnamon Ridge Rd,CA,San-Ramon,94582,2199900.0,4.0,4.5,3006.0,7,Yes,2016,33 days,Single Family Residential,Contemporary,GALE RANCH,33.0
+39 Grand Canyon Ln,CA,San-Ramon,94582,1845000.0,4.0,2.5,2360.0,9,Yes,1986,27 days,Single Family Residential,Contemporary,CANY0N LAKES,27.0
+200 Manchester St,CA,San-Ramon,94506,2295000.0,5.0,3.0,2961.0,8,Yes,1991,1 hour,Single Family Residential,Traditional,MERIDIAN HILLS,0.041666666666666664
+1341 Solano Ter,CA,San-Ramon,94583,1014920.0,2.0,2.5,1352.0,9,Yes,2023,53 days,Condo,Contemporary,CROW CANYON,53.0
+135 Fallbury Ct,CA,San-Ramon,94583,1998000.0,4.0,3.0,3020.0,9,Yes,1989,6 days,Single Family Residential,Traditional,NEWCASTLE,6.0
+9514 Velvet Leaf Cir,CA,San-Ramon,94582,2895000.0,5.0,3.5,3848.0,8,Yes,2001,33 days,Single Family Residential,Mediterranean,BRIDGES,33.0
+2829 Pine Valley Rd,CA,San-Ramon,94583,1349000.0,4.0,3.0,1655.0,9,Yes,1968,11 days,Single Family Home,Ranch,SAN RAMON,11.0
+1110 Lorenzini Loop,CA,San-Ramon,94583,1653020.0,4.0,3.0,2764.0,9,Yes,2023,69 days,Condo,Spanish,CROW CANYON,69.0
+245 Reflections Dr #22,CA,San-Ramon,94583,669950.0,2.0,2.0,949.0,9,No,1988,24 days,Condo,Contemporary,REFLECTIONS,24.0
+160 Reflections Dr #14,CA,San-Ramon,94583,659000.0,2.0,2.0,943.0,9,No,1988,6 days,Condo,Contemporary,SAN RAMON,6.0
+200 Cliffecastle Ct,CA,San-Ramon,94583,3199900.0,5.0,4.5,4314.0,9,Yes,2013,32 days,Single Family Residential,Contemporary,NORRIS CANYON,32.0
+70103 Via Vicenza Bd 19,CA,San-Ramon,94583,1199880.0,4.0,3.0,2134.0,9,Yes,2023,117 days,Multi-Family (2-4 Unit),Contemporary,The Preserve - Hillcrest,117.0
+70105 Via Vicenza Bd 19,CA,San-Ramon,94583,1089880.0,3.0,3.5,1822.0,9,Yes,2023,124 days,Multi-Family (2-4 Unit),Contemporary,The Preserve - Hillcrest,124.0
+1190 Mateo Miller Cir,CA,San-Ramon,94583,2076243.0,4.0,3.5,2846.0,9,Yes,2022,53 days,Condo,Spanish,CROW CANYON,53.0
+2583 Shadow Mountain Dr,CA,San-Ramon,94583,2300000.0,4.0,5.0,4224.0,9,Yes,1971,33 days,Single Family Residential,Custom,TWIN CREEKS AREA,33.0
+3324 Browntail Way,CA,San-Ramon,94582,1450000.0,3.0,2.5,1606.0,7,Yes,2007,38 days,Single Family Residential,Contemporary,GALE RANCH,38.0
+61101 Via Vicenza Bd 11,CA,San-Ramon,94583,1289880.0,4.0,3.5,2269.0,9,Yes,2021,139 days,Multi-Family (2-4 Unit),Contemporary,The Preserve - Hillcrest,139.0
+108 Arapaho Cir,CA,San-Ramon,94583,1825000.0,4.0,3.0,2339.0,9,Yes,1984,5 days,Single Family Residential,Traditional,BOLLINGER HILLS,5.0
+109 Compton Cir Unit B,CA,San-Ramon,94583,598888.0,2.0,1.0,924.0,9,No,1988,5 days,Condo,Contemporary,HERITAGE PLACE,5.0
+127 Dogwood Pl,CA,San-Ramon,94583,834950.0,2.0,2.0,960.0,9,Yes,1963,3 days,Single Family Home,Contemporary,SAN RAMON,3.0
+3557 Ashbourne Cir,CA,San-Ramon,94583,2898000.0,5.0,4.5,4743.0,9,Yes,2006,40 days,Single Family Residential,Custom,NORRIS CYN ESTAT,40.0
+1210 Mateo Miller Cir,CA,San-Ramon,94583,2084377.0,4.0,4.0,2813.0,9,Yes,2023,40 days,Condo,Spanish,CROW CANYON,40.0
+4716 Norris Canyon Rd #202,CA,San-Ramon,94583,788000.0,3.0,2.0,951.0,9,Yes,2014,40 days,Condo,Contemporary,Not Listed,40.0
+9005 Alcosta Blvd #210,CA,San-Ramon,94583,608000.0,2.0,2.5,1230.0,9,No,1971,65 days,Condo,Contemporary,SAN RAMON,65.0
+2000 Wineberry Dr,CA,San-Ramon,94582,1595000.0,3.0,2.0,1675.0,8,Yes,1998,5 days,Single Family Residential,Traditional,BRIDGES,5.0
+400 Melrose Ct,CA,San-Ramon,94582,2799000.0,5.0,3.5,4264.0,8,Yes,2004,34 days,Single Family Residential,Mediterranean,GALE RANCH,34.0
+1013 Sky Jasmine Way,CA,San-Ramon,94582,2749000.0,4.0,4.5,4095.0,8,Yes,2015,27 days,Single Family Residential,Contemporary,GALE RANCH,27.0
+220 Manchester St,CA,San-Ramon,94506,2150000.0,5.0,3.5,2961.0,8,Yes,1990,3 days,Single Family Residential,Traditional,MERIDIAN,3.0
+6986 Wisteria St,CA,San-Ramon,94583,840000.0,3.0,2.0,1310.0,9,Yes,1963,81 days,Single Family Residential,Traditional,SUNNY GLEN,81.0
+708 Fountainhead,CA,San-Ramon,94583,1225000.0,3.0,2.5,1461.0,9,Yes,1974,40 days,Townhouse,Contemporary,TWIN CREEKS AREA,40.0
+1234 Mateo Miller Cir,CA,San-Ramon,94583,1873853.0,4.0,3.5,2846.0,9,Yes,2023,63 days,Single Family Residential,Contemporary,Twin Oaks - Arbor,63.0
+15 Poppy Hills Ln,CA,San-Ramon,94583,1328000.0,3.0,2.5,1675.0,9,Yes,1999,19 days,Single Family Residential,Traditional,THE ORCHARDS,19.0
+3238 Ensenada Dr,CA,San-Ramon,94583,1499000.0,4.0,2.5,1880.0,9,Yes,1976,5 days,Single Family Residential,Traditional,THE GREENS,5.0
+63101 Via Vicenza Bd 12,CA,San-Ramon,94583,1299880.0,4.0,3.5,2269.0,9,Yes,2022,105 days,Multi-Family (2-4 Unit),Contemporary,The Preserve - Hillcrest,105.0
+700 Ardleigh Ct,CA,San-Ramon,94583,3195000.0,5.0,5.5,5035.0,9,Yes,2002,3 days,Single Family Residential,Traditional,NORRIS CYN ESTAT,3.0
+45 Longwood Ct,CA,San-Ramon,94582,1999000.0,4.0,2.5,2602.0,9,Yes,1983,46 days,Single Family Residential,Custom,VISTA SAN RAMON,46.0
+3130 Sweetviolet Dr,CA,San-Ramon,94582,2225000.0,5.0,4.5,3207.0,7,Yes,2013,5 days,Single Family Residential,Contemporary,GALE RANCH,5.0
+3855 Crow Canyon Rd,CA,San-Ramon,94582,745000.0,2.0,2.0,1107.0,9,Yes,1988,6 days,Condo,Contemporary,COBBLESTONE,6.0
+1102 Mateo Miller Cir,CA,San-Ramon,94583,2292119.0,4.0,3.5,2860.0,9,Yes,2023,93 days,Condo,Spanish,CROW CANYON,93.0
